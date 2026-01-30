@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+implicit
+lightfm
+lightgbm
+xgboost
+fastapi
+uvicorn
+pyyaml
+tqdm

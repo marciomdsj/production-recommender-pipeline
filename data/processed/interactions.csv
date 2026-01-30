@@ -1,0 +1,3901 @@
+user_id,item_id,category,location,interaction
+1,Blouse,Clothing,Kentucky,1
+2,Sweater,Clothing,Maine,1
+3,Jeans,Clothing,Massachusetts,1
+4,Sandals,Footwear,Rhode Island,1
+5,Blouse,Clothing,Oregon,1
+6,Sneakers,Footwear,Wyoming,1
+7,Shirt,Clothing,Montana,1
+8,Shorts,Clothing,Louisiana,1
+9,Coat,Outerwear,West Virginia,1
+10,Handbag,Accessories,Missouri,1
+11,Shoes,Footwear,Arkansas,1
+12,Shorts,Clothing,Hawaii,1
+13,Coat,Outerwear,Delaware,1
+14,Dress,Clothing,New Hampshire,1
+15,Coat,Outerwear,New York,1
+16,Skirt,Clothing,Rhode Island,1
+17,Sunglasses,Accessories,Alabama,1
+18,Dress,Clothing,Mississippi,1
+19,Sweater,Clothing,Montana,1
+20,Pants,Clothing,Rhode Island,1
+21,Pants,Clothing,Louisiana,1
+22,Pants,Clothing,North Carolina,1
+23,Pants,Clothing,California,1
+24,Pants,Clothing,Oklahoma,1
+25,Jacket,Outerwear,Florida,1
+26,Hoodie,Clothing,Texas,1
+27,Jewelry,Accessories,Nevada,1
+28,Shorts,Clothing,Kentucky,1
+29,Handbag,Accessories,North Carolina,1
+30,Dress,Clothing,Wyoming,1
+31,Jewelry,Accessories,North Carolina,1
+32,Dress,Clothing,West Virginia,1
+33,Jacket,Outerwear,Kansas,1
+34,Pants,Clothing,Colorado,1
+35,T-shirt,Clothing,North Dakota,1
+36,Blouse,Clothing,Massachusetts,1
+37,T-shirt,Clothing,Illinois,1
+38,Jeans,Clothing,Indiana,1
+39,Dress,Clothing,Florida,1
+40,Pants,Clothing,Arizona,1
+41,Handbag,Accessories,Louisiana,1
+42,Scarf,Accessories,Alaska,1
+43,Coat,Outerwear,Tennessee,1
+44,Scarf,Accessories,Ohio,1
+45,Hat,Accessories,Kentucky,1
+46,Socks,Clothing,Tennessee,1
+47,Shirt,Clothing,California,1
+48,Jewelry,Accessories,Montana,1
+49,Shirt,Clothing,Nevada,1
+50,Hoodie,Clothing,New Jersey,1
+51,Blouse,Clothing,Maryland,1
+52,Skirt,Clothing,Vermont,1
+53,T-shirt,Clothing,Alaska,1
+54,Skirt,Clothing,Mississippi,1
+55,Coat,Outerwear,New Mexico,1
+56,Jacket,Outerwear,South Carolina,1
+57,Backpack,Accessories,Mississippi,1
+58,Coat,Outerwear,West Virginia,1
+59,Hoodie,Clothing,Missouri,1
+60,Belt,Accessories,Louisiana,1
+61,Sweater,Clothing,Idaho,1
+62,Scarf,Accessories,Texas,1
+63,Sneakers,Footwear,Mississippi,1
+64,Sunglasses,Accessories,Arizona,1
+65,Boots,Footwear,Alabama,1
+66,Backpack,Accessories,New Jersey,1
+67,Blouse,Clothing,Pennsylvania,1
+68,Coat,Outerwear,Connecticut,1
+69,Handbag,Accessories,Utah,1
+70,Belt,Accessories,Tennessee,1
+71,Belt,Accessories,Alabama,1
+72,Dress,Clothing,Virginia,1
+73,Dress,Clothing,Georgia,1
+74,Pants,Clothing,Hawaii,1
+75,Gloves,Accessories,Indiana,1
+76,Scarf,Accessories,Utah,1
+77,Hat,Accessories,Delaware,1
+78,Dress,Clothing,Delaware,1
+79,Skirt,Clothing,Nebraska,1
+80,Jacket,Outerwear,Iowa,1
+81,Sandals,Footwear,New York,1
+82,Shoes,Footwear,Virginia,1
+83,Pants,Clothing,Georgia,1
+84,Dress,Clothing,Texas,1
+85,Coat,Outerwear,Arizona,1
+86,Sunglasses,Accessories,New Mexico,1
+87,Hoodie,Clothing,Nevada,1
+88,Shoes,Footwear,Ohio,1
+89,T-shirt,Clothing,Wyoming,1
+90,Jacket,Outerwear,California,1
+91,Hat,Accessories,South Carolina,1
+92,Scarf,Accessories,South Carolina,1
+93,Jacket,Outerwear,Texas,1
+94,Sweater,Clothing,Florida,1
+95,Skirt,Clothing,Nevada,1
+96,Sneakers,Footwear,Missouri,1
+97,Gloves,Accessories,Delaware,1
+98,Shoes,Footwear,Virginia,1
+99,Jeans,Clothing,New York,1
+100,Hoodie,Clothing,Missouri,1
+101,Sunglasses,Accessories,South Dakota,1
+102,Coat,Outerwear,North Dakota,1
+103,Socks,Clothing,Oklahoma,1
+104,Boots,Footwear,West Virginia,1
+105,Sunglasses,Accessories,New Hampshire,1
+106,Backpack,Accessories,New York,1
+107,Jacket,Outerwear,Minnesota,1
+108,Sneakers,Footwear,Maryland,1
+109,Socks,Clothing,Montana,1
+110,T-shirt,Clothing,Alabama,1
+111,Backpack,Accessories,New York,1
+112,Belt,Accessories,Massachusetts,1
+113,Gloves,Accessories,Florida,1
+114,Hat,Accessories,New Jersey,1
+115,Coat,Outerwear,Massachusetts,1
+116,Skirt,Clothing,Wyoming,1
+117,Shoes,Footwear,Virginia,1
+118,Sandals,Footwear,South Dakota,1
+119,Sweater,Clothing,Kentucky,1
+120,Coat,Outerwear,Wyoming,1
+121,Hat,Accessories,West Virginia,1
+122,Shorts,Clothing,Virginia,1
+123,Backpack,Accessories,Washington,1
+124,Sweater,Clothing,Louisiana,1
+125,Sweater,Clothing,Nevada,1
+126,Shorts,Clothing,California,1
+127,Shorts,Clothing,Mississippi,1
+128,Sweater,Clothing,Mississippi,1
+129,Scarf,Accessories,California,1
+130,Dress,Clothing,Pennsylvania,1
+131,Scarf,Accessories,Kentucky,1
+132,Skirt,Clothing,Maine,1
+133,Backpack,Accessories,New Mexico,1
+134,Sweater,Clothing,Montana,1
+135,Hat,Accessories,Texas,1
+136,Sandals,Footwear,Kansas,1
+137,Blouse,Clothing,South Carolina,1
+138,Sneakers,Footwear,Colorado,1
+139,Skirt,Clothing,Georgia,1
+140,Coat,Outerwear,Florida,1
+141,Shirt,Clothing,North Carolina,1
+142,Gloves,Accessories,Virginia,1
+143,Jacket,Outerwear,Nebraska,1
+144,Coat,Outerwear,Missouri,1
+145,Shoes,Footwear,New Jersey,1
+146,Jewelry,Accessories,Missouri,1
+147,Skirt,Clothing,Colorado,1
+148,Shoes,Footwear,Idaho,1
+149,Gloves,Accessories,Wyoming,1
+150,Pants,Clothing,Delaware,1
+151,Boots,Footwear,California,1
+152,Sunglasses,Accessories,North Dakota,1
+153,Shirt,Clothing,South Carolina,1
+154,Hoodie,Clothing,North Carolina,1
+155,Dress,Clothing,Oklahoma,1
+156,Socks,Clothing,Maine,1
+157,Shorts,Clothing,Missouri,1
+158,Hat,Accessories,Vermont,1
+159,Shirt,Clothing,Connecticut,1
+160,Gloves,Accessories,New Hampshire,1
+161,Gloves,Accessories,Texas,1
+162,Backpack,Accessories,North Dakota,1
+163,Sunglasses,Accessories,California,1
+164,Skirt,Clothing,Virginia,1
+165,Handbag,Accessories,Delaware,1
+166,Handbag,Accessories,Kentucky,1
+167,Sneakers,Footwear,Delaware,1
+168,Gloves,Accessories,Arkansas,1
+169,Shoes,Footwear,Louisiana,1
+170,Jacket,Outerwear,Nevada,1
+171,Shirt,Clothing,Wyoming,1
+172,Shorts,Clothing,Virginia,1
+173,Jewelry,Accessories,Nebraska,1
+174,Hat,Accessories,Hawaii,1
+175,Shoes,Footwear,Vermont,1
+176,Coat,Outerwear,Oklahoma,1
+177,Backpack,Accessories,New Hampshire,1
+178,Hoodie,Clothing,Kansas,1
+179,Skirt,Clothing,Idaho,1
+180,Boots,Footwear,Illinois,1
+181,Sandals,Footwear,South Dakota,1
+182,Pants,Clothing,Massachusetts,1
+183,Gloves,Accessories,Alabama,1
+184,Skirt,Clothing,Ohio,1
+185,Sneakers,Footwear,Hawaii,1
+186,T-shirt,Clothing,Wisconsin,1
+187,Backpack,Accessories,Minnesota,1
+188,Shoes,Footwear,Georgia,1
+189,Hoodie,Clothing,Arkansas,1
+190,Blouse,Clothing,West Virginia,1
+191,Coat,Outerwear,Indiana,1
+192,Hat,Accessories,Utah,1
+193,Shoes,Footwear,Nebraska,1
+194,Belt,Accessories,North Dakota,1
+195,Backpack,Accessories,Missouri,1
+196,Jacket,Outerwear,New York,1
+197,Boots,Footwear,Washington,1
+198,Scarf,Accessories,South Carolina,1
+199,Jewelry,Accessories,Utah,1
+200,Hat,Accessories,Idaho,1
+201,Dress,Clothing,Pennsylvania,1
+202,Blouse,Clothing,Missouri,1
+203,Hat,Accessories,Nebraska,1
+204,Scarf,Accessories,Indiana,1
+205,Sneakers,Footwear,Arizona,1
+206,Shirt,Clothing,Hawaii,1
+207,T-shirt,Clothing,Wisconsin,1
+208,Gloves,Accessories,Rhode Island,1
+209,Skirt,Clothing,Wisconsin,1
+210,Sandals,Footwear,Minnesota,1
+211,Jacket,Outerwear,Vermont,1
+212,Skirt,Clothing,South Dakota,1
+213,Handbag,Accessories,Virginia,1
+214,Handbag,Accessories,Nevada,1
+215,Jacket,Outerwear,Hawaii,1
+216,Scarf,Accessories,New Jersey,1
+217,Shorts,Clothing,Massachusetts,1
+218,Sunglasses,Accessories,Oklahoma,1
+219,T-shirt,Clothing,California,1
+220,Belt,Accessories,Nevada,1
+221,Sneakers,Footwear,Arizona,1
+222,Hat,Accessories,North Carolina,1
+223,Gloves,Accessories,New York,1
+224,Pants,Clothing,Wyoming,1
+225,Socks,Clothing,South Dakota,1
+226,Jacket,Outerwear,Arkansas,1
+227,Shoes,Footwear,Texas,1
+228,Jeans,Clothing,Rhode Island,1
+229,Socks,Clothing,New Hampshire,1
+230,Sandals,Footwear,Ohio,1
+231,Scarf,Accessories,Utah,1
+232,Blouse,Clothing,Tennessee,1
+233,Jewelry,Accessories,Hawaii,1
+234,Sweater,Clothing,Arizona,1
+235,Gloves,Accessories,South Dakota,1
+236,Sunglasses,Accessories,New Jersey,1
+237,Coat,Outerwear,North Dakota,1
+238,Dress,Clothing,Iowa,1
+239,Skirt,Clothing,Ohio,1
+240,Pants,Clothing,Vermont,1
+241,Sweater,Clothing,Montana,1
+242,Hoodie,Clothing,Delaware,1
+243,Coat,Outerwear,New York,1
+244,Jewelry,Accessories,Kentucky,1
+245,Belt,Accessories,Oregon,1
+246,Sandals,Footwear,Rhode Island,1
+247,Sunglasses,Accessories,Nevada,1
+248,Sweater,Clothing,Montana,1
+249,Belt,Accessories,Pennsylvania,1
+250,Handbag,Accessories,Alaska,1
+251,Skirt,Clothing,Mississippi,1
+252,Handbag,Accessories,Wyoming,1
+253,Shorts,Clothing,Delaware,1
+254,Boots,Footwear,Oklahoma,1
+255,Sunglasses,Accessories,Indiana,1
+256,Scarf,Accessories,Maryland,1
+257,Jewelry,Accessories,South Dakota,1
+258,Handbag,Accessories,West Virginia,1
+259,Gloves,Accessories,Alabama,1
+260,Jeans,Clothing,Louisiana,1
+261,Hat,Accessories,Montana,1
+262,Jeans,Clothing,California,1
+263,Pants,Clothing,Hawaii,1
+264,Shorts,Clothing,Iowa,1
+265,Pants,Clothing,Colorado,1
+266,Backpack,Accessories,Michigan,1
+267,Jewelry,Accessories,Louisiana,1
+268,Sweater,Clothing,Maryland,1
+269,Shoes,Footwear,Georgia,1
+270,Blouse,Clothing,Georgia,1
+271,Jeans,Clothing,North Dakota,1
+272,Sunglasses,Accessories,Maryland,1
+273,Jewelry,Accessories,Oregon,1
+274,Coat,Outerwear,North Dakota,1
+275,Jewelry,Accessories,Maryland,1
+276,Backpack,Accessories,Virginia,1
+277,Skirt,Clothing,South Dakota,1
+278,Shirt,Clothing,Georgia,1
+279,Sweater,Clothing,Hawaii,1
+280,Sneakers,Footwear,Arkansas,1
+281,Sandals,Footwear,Montana,1
+282,Belt,Accessories,Oklahoma,1
+283,Skirt,Clothing,Minnesota,1
+284,Sweater,Clothing,Montana,1
+285,Skirt,Clothing,Ohio,1
+286,Handbag,Accessories,Kentucky,1
+287,Jewelry,Accessories,Nebraska,1
+288,Scarf,Accessories,Delaware,1
+289,T-shirt,Clothing,North Carolina,1
+290,Coat,Outerwear,New York,1
+291,T-shirt,Clothing,Colorado,1
+292,Dress,Clothing,Delaware,1
+293,Shoes,Footwear,Utah,1
+294,Handbag,Accessories,Connecticut,1
+295,Skirt,Clothing,New Jersey,1
+296,Sunglasses,Accessories,West Virginia,1
+297,Sandals,Footwear,Indiana,1
+298,Shoes,Footwear,Delaware,1
+299,T-shirt,Clothing,Maryland,1
+300,Sneakers,Footwear,Pennsylvania,1
+301,Hat,Accessories,Iowa,1
+302,Skirt,Clothing,Pennsylvania,1
+303,Sweater,Clothing,Delaware,1
+304,Sandals,Footwear,Oregon,1
+305,Dress,Clothing,Oregon,1
+306,Sweater,Clothing,Utah,1
+307,Jacket,Outerwear,North Dakota,1
+308,Gloves,Accessories,Florida,1
+309,Handbag,Accessories,Maryland,1
+310,Dress,Clothing,Minnesota,1
+311,Pants,Clothing,Montana,1
+312,Jeans,Clothing,Rhode Island,1
+313,Pants,Clothing,Massachusetts,1
+314,Dress,Clothing,Vermont,1
+315,Pants,Clothing,New Jersey,1
+316,Jewelry,Accessories,Wisconsin,1
+317,Handbag,Accessories,California,1
+318,Sweater,Clothing,West Virginia,1
+319,Backpack,Accessories,South Dakota,1
+320,Shorts,Clothing,Maine,1
+321,Jewelry,Accessories,Kansas,1
+322,Sneakers,Footwear,Vermont,1
+323,Belt,Accessories,Tennessee,1
+324,Hoodie,Clothing,Tennessee,1
+325,Shirt,Clothing,Wyoming,1
+326,Pants,Clothing,Vermont,1
+327,Scarf,Accessories,New Jersey,1
+328,Coat,Outerwear,Iowa,1
+329,Coat,Outerwear,Florida,1
+330,Socks,Clothing,Nevada,1
+331,Sweater,Clothing,North Dakota,1
+332,Shirt,Clothing,Florida,1
+333,Shirt,Clothing,New York,1
+334,Sweater,Clothing,Alaska,1
+335,Blouse,Clothing,Kansas,1
+336,Sweater,Clothing,Oregon,1
+337,Hat,Accessories,Rhode Island,1
+338,Sweater,Clothing,New Mexico,1
+339,Hoodie,Clothing,Massachusetts,1
+340,Shorts,Clothing,Pennsylvania,1
+341,Shorts,Clothing,New Jersey,1
+342,Hat,Accessories,Utah,1
+343,Coat,Outerwear,Kentucky,1
+344,Sandals,Footwear,Nebraska,1
+345,Skirt,Clothing,Virginia,1
+346,Shoes,Footwear,Wyoming,1
+347,Jeans,Clothing,New Mexico,1
+348,Sandals,Footwear,Oregon,1
+349,Blouse,Clothing,South Carolina,1
+350,Hat,Accessories,Arizona,1
+351,Sweater,Clothing,Kentucky,1
+352,Skirt,Clothing,New York,1
+353,Jeans,Clothing,Texas,1
+354,Sneakers,Footwear,Missouri,1
+355,Jewelry,Accessories,Pennsylvania,1
+356,Jewelry,Accessories,Oregon,1
+357,Pants,Clothing,Nevada,1
+358,Belt,Accessories,Arkansas,1
+359,Hat,Accessories,Minnesota,1
+360,Sneakers,Footwear,Georgia,1
+361,Pants,Clothing,Rhode Island,1
+362,T-shirt,Clothing,Nevada,1
+363,Sneakers,Footwear,Texas,1
+364,Shorts,Clothing,Florida,1
+365,Shoes,Footwear,North Dakota,1
+366,Gloves,Accessories,West Virginia,1
+367,Socks,Clothing,Nebraska,1
+368,Dress,Clothing,Tennessee,1
+369,Handbag,Accessories,Oklahoma,1
+370,Belt,Accessories,Wisconsin,1
+371,Scarf,Accessories,Oregon,1
+372,Sneakers,Footwear,North Carolina,1
+373,Sweater,Clothing,Pennsylvania,1
+374,Coat,Outerwear,North Dakota,1
+375,Jewelry,Accessories,Ohio,1
+376,Sunglasses,Accessories,Oklahoma,1
+377,Shoes,Footwear,South Carolina,1
+378,Scarf,Accessories,Maine,1
+379,Dress,Clothing,Nevada,1
+380,T-shirt,Clothing,Montana,1
+381,Backpack,Accessories,New Hampshire,1
+382,Jewelry,Accessories,Maine,1
+383,Jeans,Clothing,California,1
+384,Sunglasses,Accessories,West Virginia,1
+385,Sweater,Clothing,California,1
+386,Shorts,Clothing,West Virginia,1
+387,Jewelry,Accessories,Louisiana,1
+388,Coat,Outerwear,Georgia,1
+389,Handbag,Accessories,Washington,1
+390,Boots,Footwear,Virginia,1
+391,Gloves,Accessories,Indiana,1
+392,Sweater,Clothing,Minnesota,1
+393,T-shirt,Clothing,Idaho,1
+394,Shoes,Footwear,Vermont,1
+395,Scarf,Accessories,North Dakota,1
+396,Sneakers,Footwear,Rhode Island,1
+397,Dress,Clothing,South Carolina,1
+398,Belt,Accessories,Mississippi,1
+399,Boots,Footwear,Montana,1
+400,Scarf,Accessories,Idaho,1
+401,Boots,Footwear,Utah,1
+402,T-shirt,Clothing,Oklahoma,1
+403,Backpack,Accessories,California,1
+404,Sneakers,Footwear,Nevada,1
+405,T-shirt,Clothing,Delaware,1
+406,Jeans,Clothing,South Carolina,1
+407,Gloves,Accessories,Maryland,1
+408,Hoodie,Clothing,North Carolina,1
+409,Sneakers,Footwear,Alabama,1
+410,Shorts,Clothing,Minnesota,1
+411,Sweater,Clothing,Virginia,1
+412,Jeans,Clothing,Michigan,1
+413,Jacket,Outerwear,Maine,1
+414,Jewelry,Accessories,Nevada,1
+415,Backpack,Accessories,Wyoming,1
+416,Coat,Outerwear,Connecticut,1
+417,Belt,Accessories,Oregon,1
+418,Sandals,Footwear,Mississippi,1
+419,Sweater,Clothing,Illinois,1
+420,Shorts,Clothing,Utah,1
+421,Socks,Clothing,North Carolina,1
+422,Shirt,Clothing,Kentucky,1
+423,Pants,Clothing,Minnesota,1
+424,Scarf,Accessories,New York,1
+425,Sweater,Clothing,Illinois,1
+426,Jeans,Clothing,North Dakota,1
+427,Pants,Clothing,Louisiana,1
+428,Backpack,Accessories,Illinois,1
+429,Coat,Outerwear,Wyoming,1
+430,Sandals,Footwear,Washington,1
+431,Shirt,Clothing,Texas,1
+432,Hat,Accessories,New Hampshire,1
+433,Shirt,Clothing,Indiana,1
+434,Skirt,Clothing,Alabama,1
+435,Shoes,Footwear,Oklahoma,1
+436,Coat,Outerwear,Montana,1
+437,Pants,Clothing,Tennessee,1
+438,Jewelry,Accessories,New Mexico,1
+439,Belt,Accessories,Iowa,1
+440,Jacket,Outerwear,Idaho,1
+441,Shirt,Clothing,Oklahoma,1
+442,Hoodie,Clothing,Florida,1
+443,Sunglasses,Accessories,Michigan,1
+444,Sunglasses,Accessories,Hawaii,1
+445,Dress,Clothing,California,1
+446,Boots,Footwear,Iowa,1
+447,Shirt,Clothing,West Virginia,1
+448,Shorts,Clothing,Washington,1
+449,Gloves,Accessories,Missouri,1
+450,Jewelry,Accessories,New York,1
+451,Boots,Footwear,Connecticut,1
+452,Jewelry,Accessories,Virginia,1
+453,Pants,Clothing,Missouri,1
+454,Jewelry,Accessories,Nebraska,1
+455,Jacket,Outerwear,New Jersey,1
+456,Blouse,Clothing,Utah,1
+457,Blouse,Clothing,North Carolina,1
+458,Gloves,Accessories,Rhode Island,1
+459,Shorts,Clothing,Arkansas,1
+460,Hat,Accessories,Maryland,1
+461,Shoes,Footwear,South Carolina,1
+462,Boots,Footwear,Ohio,1
+463,Jacket,Outerwear,Illinois,1
+464,Jewelry,Accessories,Georgia,1
+465,Sunglasses,Accessories,Alabama,1
+466,Skirt,Clothing,Oklahoma,1
+467,Jeans,Clothing,Vermont,1
+468,Backpack,Accessories,Nebraska,1
+469,Backpack,Accessories,Georgia,1
+470,Shorts,Clothing,Alabama,1
+471,Dress,Clothing,Minnesota,1
+472,Scarf,Accessories,Missouri,1
+473,Jeans,Clothing,Georgia,1
+474,Coat,Outerwear,West Virginia,1
+475,Sweater,Clothing,Arkansas,1
+476,Sneakers,Footwear,Ohio,1
+477,Scarf,Accessories,Connecticut,1
+478,Sweater,Clothing,North Dakota,1
+479,Jewelry,Accessories,Kansas,1
+480,Handbag,Accessories,Iowa,1
+481,Hoodie,Clothing,Vermont,1
+482,Hat,Accessories,Wisconsin,1
+483,Belt,Accessories,Connecticut,1
+484,Hoodie,Clothing,Oklahoma,1
+485,Hat,Accessories,Missouri,1
+486,Shoes,Footwear,Tennessee,1
+487,Sandals,Footwear,New Mexico,1
+488,Jacket,Outerwear,Iowa,1
+489,Sweater,Clothing,Maine,1
+490,Socks,Clothing,South Dakota,1
+491,Sneakers,Footwear,Colorado,1
+492,Coat,Outerwear,Vermont,1
+493,Shirt,Clothing,Michigan,1
+494,Backpack,Accessories,Nevada,1
+495,Boots,Footwear,Indiana,1
+496,Handbag,Accessories,Michigan,1
+497,Dress,Clothing,California,1
+498,Sneakers,Footwear,Oklahoma,1
+499,Boots,Footwear,Iowa,1
+500,Shoes,Footwear,Rhode Island,1
+501,T-shirt,Clothing,Washington,1
+502,Boots,Footwear,Florida,1
+503,Pants,Clothing,South Carolina,1
+504,Shoes,Footwear,West Virginia,1
+505,Shoes,Footwear,Missouri,1
+506,T-shirt,Clothing,Maine,1
+507,Scarf,Accessories,Georgia,1
+508,Shorts,Clothing,Maine,1
+509,Jewelry,Accessories,Illinois,1
+510,T-shirt,Clothing,Delaware,1
+511,Shirt,Clothing,West Virginia,1
+512,Shirt,Clothing,Hawaii,1
+513,Gloves,Accessories,New York,1
+514,Scarf,Accessories,New Mexico,1
+515,Skirt,Clothing,Indiana,1
+516,Hat,Accessories,Kentucky,1
+517,Hoodie,Clothing,West Virginia,1
+518,Boots,Footwear,North Dakota,1
+519,Blouse,Clothing,Oregon,1
+520,Belt,Accessories,Minnesota,1
+521,Sunglasses,Accessories,South Carolina,1
+522,Shorts,Clothing,Vermont,1
+523,Gloves,Accessories,Minnesota,1
+524,Sandals,Footwear,Delaware,1
+525,Shirt,Clothing,Pennsylvania,1
+526,Coat,Outerwear,Iowa,1
+527,Pants,Clothing,New Jersey,1
+528,T-shirt,Clothing,South Carolina,1
+529,Sneakers,Footwear,Maryland,1
+530,Shorts,Clothing,California,1
+531,Coat,Outerwear,Montana,1
+532,Sandals,Footwear,Vermont,1
+533,Pants,Clothing,Texas,1
+534,Sandals,Footwear,North Carolina,1
+535,Gloves,Accessories,Florida,1
+536,T-shirt,Clothing,West Virginia,1
+537,Jacket,Outerwear,Illinois,1
+538,Blouse,Clothing,Virginia,1
+539,Socks,Clothing,Virginia,1
+540,Coat,Outerwear,Wyoming,1
+541,Dress,Clothing,South Carolina,1
+542,Jacket,Outerwear,Connecticut,1
+543,Boots,Footwear,Illinois,1
+544,Skirt,Clothing,Alabama,1
+545,Sandals,Footwear,Washington,1
+546,Coat,Outerwear,Alabama,1
+547,Hoodie,Clothing,New Mexico,1
+548,Jacket,Outerwear,Nevada,1
+549,Backpack,Accessories,Nebraska,1
+550,Backpack,Accessories,Arizona,1
+551,Belt,Accessories,Georgia,1
+552,Coat,Outerwear,Idaho,1
+553,T-shirt,Clothing,Missouri,1
+554,Sunglasses,Accessories,Florida,1
+555,Sneakers,Footwear,Minnesota,1
+556,Gloves,Accessories,Maine,1
+557,Coat,Outerwear,Montana,1
+558,Shirt,Clothing,Alaska,1
+559,Sneakers,Footwear,Iowa,1
+560,Scarf,Accessories,Arizona,1
+561,Jewelry,Accessories,Louisiana,1
+562,Jacket,Outerwear,Alabama,1
+563,Jeans,Clothing,Missouri,1
+564,Shoes,Footwear,Idaho,1
+565,Hoodie,Clothing,Florida,1
+566,Backpack,Accessories,Idaho,1
+567,Sneakers,Footwear,Alabama,1
+568,Blouse,Clothing,New Hampshire,1
+569,Pants,Clothing,Utah,1
+570,Skirt,Clothing,Alabama,1
+571,T-shirt,Clothing,Iowa,1
+572,Jacket,Outerwear,Kentucky,1
+573,Scarf,Accessories,South Carolina,1
+574,Pants,Clothing,California,1
+575,Sneakers,Footwear,Maine,1
+576,Jeans,Clothing,Nebraska,1
+577,Hat,Accessories,Washington,1
+578,Skirt,Clothing,Alabama,1
+579,Sandals,Footwear,Maine,1
+580,Sandals,Footwear,California,1
+581,Sweater,Clothing,Iowa,1
+582,Sweater,Clothing,Iowa,1
+583,Jacket,Outerwear,Colorado,1
+584,Shorts,Clothing,California,1
+585,Socks,Clothing,Indiana,1
+586,Socks,Clothing,South Carolina,1
+587,Hoodie,Clothing,Wisconsin,1
+588,Socks,Clothing,Washington,1
+589,Boots,Footwear,South Dakota,1
+590,Shirt,Clothing,Minnesota,1
+591,Belt,Accessories,Alaska,1
+592,Backpack,Accessories,Kentucky,1
+593,Boots,Footwear,North Dakota,1
+594,Coat,Outerwear,Alaska,1
+595,Hoodie,Clothing,Oklahoma,1
+596,Shoes,Footwear,Delaware,1
+597,Shoes,Footwear,Montana,1
+598,Jewelry,Accessories,Alaska,1
+599,Dress,Clothing,California,1
+600,Boots,Footwear,Massachusetts,1
+601,Hat,Accessories,South Carolina,1
+602,Backpack,Accessories,West Virginia,1
+603,Shoes,Footwear,Oregon,1
+604,Handbag,Accessories,Massachusetts,1
+605,Sunglasses,Accessories,West Virginia,1
+606,Hat,Accessories,California,1
+607,Scarf,Accessories,Colorado,1
+608,Hoodie,Clothing,Indiana,1
+609,Backpack,Accessories,Delaware,1
+610,Sweater,Clothing,Ohio,1
+611,Shorts,Clothing,Oklahoma,1
+612,Scarf,Accessories,California,1
+613,Hat,Accessories,New Hampshire,1
+614,Coat,Outerwear,Pennsylvania,1
+615,Jewelry,Accessories,Idaho,1
+616,Sandals,Footwear,Maryland,1
+617,Gloves,Accessories,Pennsylvania,1
+618,Backpack,Accessories,Colorado,1
+619,Jacket,Outerwear,Indiana,1
+620,Backpack,Accessories,Nebraska,1
+621,Backpack,Accessories,Rhode Island,1
+622,Sunglasses,Accessories,Kansas,1
+623,Socks,Clothing,Georgia,1
+624,Shoes,Footwear,Nevada,1
+625,Pants,Clothing,South Carolina,1
+626,Jewelry,Accessories,Delaware,1
+627,Sunglasses,Accessories,New Hampshire,1
+628,Sandals,Footwear,Oregon,1
+629,Sweater,Clothing,Massachusetts,1
+630,Shoes,Footwear,Vermont,1
+631,Jewelry,Accessories,Mississippi,1
+632,Boots,Footwear,Washington,1
+633,Backpack,Accessories,Wyoming,1
+634,Sandals,Footwear,Minnesota,1
+635,Sneakers,Footwear,Ohio,1
+636,Hoodie,Clothing,South Carolina,1
+637,Handbag,Accessories,Wisconsin,1
+638,Sweater,Clothing,Tennessee,1
+639,Sandals,Footwear,Maryland,1
+640,Dress,Clothing,Mississippi,1
+641,Skirt,Clothing,Minnesota,1
+642,Blouse,Clothing,Alaska,1
+643,Skirt,Clothing,Arkansas,1
+644,Sweater,Clothing,Oregon,1
+645,Backpack,Accessories,Louisiana,1
+646,Hoodie,Clothing,Oklahoma,1
+647,Boots,Footwear,Indiana,1
+648,Blouse,Clothing,Mississippi,1
+649,Hoodie,Clothing,Michigan,1
+650,Pants,Clothing,Delaware,1
+651,Gloves,Accessories,Florida,1
+652,Hat,Accessories,Arkansas,1
+653,Sunglasses,Accessories,Minnesota,1
+654,Scarf,Accessories,North Dakota,1
+655,Handbag,Accessories,California,1
+656,Handbag,Accessories,Mississippi,1
+657,Jeans,Clothing,Pennsylvania,1
+658,Jacket,Outerwear,Arizona,1
+659,Backpack,Accessories,Louisiana,1
+660,Shorts,Clothing,Virginia,1
+661,Coat,Outerwear,Montana,1
+662,Shirt,Clothing,Iowa,1
+663,Gloves,Accessories,Illinois,1
+664,Dress,Clothing,Alaska,1
+665,Pants,Clothing,Colorado,1
+666,Pants,Clothing,New Mexico,1
+667,Hoodie,Clothing,Colorado,1
+668,Sunglasses,Accessories,Arizona,1
+669,T-shirt,Clothing,Hawaii,1
+670,Jacket,Outerwear,Illinois,1
+671,Sweater,Clothing,Louisiana,1
+672,Jacket,Outerwear,Iowa,1
+673,Socks,Clothing,Washington,1
+674,Shirt,Clothing,Oklahoma,1
+675,Jewelry,Accessories,Washington,1
+676,Sunglasses,Accessories,Arkansas,1
+677,Pants,Clothing,Connecticut,1
+678,Socks,Clothing,Washington,1
+679,Blouse,Clothing,Maine,1
+680,Sandals,Footwear,Michigan,1
+681,Sneakers,Footwear,Tennessee,1
+682,Shirt,Clothing,Louisiana,1
+683,Jacket,Outerwear,Missouri,1
+684,Sandals,Footwear,Michigan,1
+685,Hat,Accessories,Alabama,1
+686,Blouse,Clothing,Massachusetts,1
+687,Sweater,Clothing,Indiana,1
+688,Gloves,Accessories,West Virginia,1
+689,Scarf,Accessories,Michigan,1
+690,Hoodie,Clothing,Pennsylvania,1
+691,Shorts,Clothing,Alaska,1
+692,Backpack,Accessories,Massachusetts,1
+693,Sunglasses,Accessories,North Dakota,1
+694,Shorts,Clothing,Vermont,1
+695,Dress,Clothing,Kentucky,1
+696,Shorts,Clothing,Nevada,1
+697,Belt,Accessories,Utah,1
+698,Scarf,Accessories,North Dakota,1
+699,Boots,Footwear,Iowa,1
+700,Handbag,Accessories,Connecticut,1
+701,Pants,Clothing,Wisconsin,1
+702,Boots,Footwear,Idaho,1
+703,Shirt,Clothing,Montana,1
+704,Dress,Clothing,Connecticut,1
+705,Hoodie,Clothing,Idaho,1
+706,Pants,Clothing,Arkansas,1
+707,Jeans,Clothing,Iowa,1
+708,Shirt,Clothing,Louisiana,1
+709,Backpack,Accessories,Kentucky,1
+710,Jacket,Outerwear,Massachusetts,1
+711,Scarf,Accessories,Virginia,1
+712,Boots,Footwear,New Hampshire,1
+713,Blouse,Clothing,New Hampshire,1
+714,Hoodie,Clothing,Oregon,1
+715,Jacket,Outerwear,South Dakota,1
+716,Jeans,Clothing,Delaware,1
+717,Jewelry,Accessories,Missouri,1
+718,Socks,Clothing,Alaska,1
+719,Shirt,Clothing,Florida,1
+720,Shorts,Clothing,Mississippi,1
+721,Jewelry,Accessories,New Mexico,1
+722,Blouse,Clothing,California,1
+723,Sweater,Clothing,Wyoming,1
+724,Jewelry,Accessories,Missouri,1
+725,T-shirt,Clothing,New Hampshire,1
+726,Hat,Accessories,Texas,1
+727,Shorts,Clothing,North Dakota,1
+728,Sweater,Clothing,Arkansas,1
+729,Jeans,Clothing,Nebraska,1
+730,Sunglasses,Accessories,Minnesota,1
+731,Boots,Footwear,Massachusetts,1
+732,Coat,Outerwear,Arkansas,1
+733,Shirt,Clothing,New Hampshire,1
+734,Dress,Clothing,Rhode Island,1
+735,Shirt,Clothing,New Jersey,1
+736,Sunglasses,Accessories,Montana,1
+737,Dress,Clothing,Colorado,1
+738,Sunglasses,Accessories,Nebraska,1
+739,Sunglasses,Accessories,Minnesota,1
+740,Shorts,Clothing,Minnesota,1
+741,Jeans,Clothing,South Dakota,1
+742,T-shirt,Clothing,West Virginia,1
+743,Pants,Clothing,Nevada,1
+744,Sunglasses,Accessories,North Carolina,1
+745,Boots,Footwear,Illinois,1
+746,T-shirt,Clothing,Michigan,1
+747,Sandals,Footwear,Michigan,1
+748,Shorts,Clothing,Oklahoma,1
+749,Hat,Accessories,South Dakota,1
+750,Scarf,Accessories,Oklahoma,1
+751,T-shirt,Clothing,Maryland,1
+752,Gloves,Accessories,Ohio,1
+753,Scarf,Accessories,Ohio,1
+754,Boots,Footwear,Massachusetts,1
+755,Gloves,Accessories,North Carolina,1
+756,Coat,Outerwear,Florida,1
+757,Belt,Accessories,Montana,1
+758,Hoodie,Clothing,Minnesota,1
+759,Shoes,Footwear,Massachusetts,1
+760,Dress,Clothing,Rhode Island,1
+761,Gloves,Accessories,Minnesota,1
+762,Jewelry,Accessories,Nevada,1
+763,Belt,Accessories,New Mexico,1
+764,Sweater,Clothing,North Carolina,1
+765,Skirt,Clothing,Virginia,1
+766,Sneakers,Footwear,Alaska,1
+767,Gloves,Accessories,Nevada,1
+768,Coat,Outerwear,Pennsylvania,1
+769,Backpack,Accessories,Illinois,1
+770,Socks,Clothing,Delaware,1
+771,Sneakers,Footwear,Vermont,1
+772,Sweater,Clothing,Hawaii,1
+773,Jeans,Clothing,Illinois,1
+774,Hat,Accessories,California,1
+775,Hat,Accessories,Nevada,1
+776,Handbag,Accessories,Kentucky,1
+777,Shirt,Clothing,Alabama,1
+778,Socks,Clothing,Wyoming,1
+779,Socks,Clothing,Massachusetts,1
+780,Dress,Clothing,Utah,1
+781,Shoes,Footwear,New York,1
+782,Scarf,Accessories,Vermont,1
+783,Hoodie,Clothing,Hawaii,1
+784,T-shirt,Clothing,Louisiana,1
+785,Jeans,Clothing,Alabama,1
+786,Shorts,Clothing,Louisiana,1
+787,Hat,Accessories,Indiana,1
+788,Handbag,Accessories,Michigan,1
+789,Pants,Clothing,Rhode Island,1
+790,Handbag,Accessories,Idaho,1
+791,Sweater,Clothing,Louisiana,1
+792,Scarf,Accessories,North Carolina,1
+793,Sneakers,Footwear,New Jersey,1
+794,Pants,Clothing,Alabama,1
+795,Backpack,Accessories,Kentucky,1
+796,Sandals,Footwear,New York,1
+797,Socks,Clothing,Arizona,1
+798,Coat,Outerwear,Maryland,1
+799,Socks,Clothing,Alaska,1
+800,Belt,Accessories,Nevada,1
+801,Socks,Clothing,Utah,1
+802,Belt,Accessories,New Mexico,1
+803,Pants,Clothing,Delaware,1
+804,Shorts,Clothing,Connecticut,1
+805,Boots,Footwear,Mississippi,1
+806,Dress,Clothing,Connecticut,1
+807,Jeans,Clothing,Florida,1
+808,T-shirt,Clothing,New York,1
+809,Shoes,Footwear,Wisconsin,1
+810,Boots,Footwear,South Carolina,1
+811,Scarf,Accessories,South Dakota,1
+812,Sneakers,Footwear,Illinois,1
+813,Boots,Footwear,Alaska,1
+814,Handbag,Accessories,Montana,1
+815,Shirt,Clothing,Minnesota,1
+816,Hat,Accessories,West Virginia,1
+817,Sweater,Clothing,Illinois,1
+818,Handbag,Accessories,Nevada,1
+819,Shirt,Clothing,Idaho,1
+820,Sunglasses,Accessories,Colorado,1
+821,Sneakers,Footwear,Louisiana,1
+822,Hoodie,Clothing,Vermont,1
+823,Shirt,Clothing,Mississippi,1
+824,Sunglasses,Accessories,Georgia,1
+825,Blouse,Clothing,Georgia,1
+826,Belt,Accessories,Nebraska,1
+827,Dress,Clothing,Massachusetts,1
+828,Shoes,Footwear,Colorado,1
+829,Socks,Clothing,Nevada,1
+830,Socks,Clothing,Idaho,1
+831,Shorts,Clothing,Wyoming,1
+832,Gloves,Accessories,Washington,1
+833,Jacket,Outerwear,California,1
+834,Handbag,Accessories,Oklahoma,1
+835,Backpack,Accessories,Nevada,1
+836,Boots,Footwear,Maryland,1
+837,Gloves,Accessories,West Virginia,1
+838,Hoodie,Clothing,Illinois,1
+839,Coat,Outerwear,Kentucky,1
+840,Shirt,Clothing,Illinois,1
+841,Shirt,Clothing,Alabama,1
+842,Sweater,Clothing,Texas,1
+843,Shirt,Clothing,Missouri,1
+844,Hoodie,Clothing,Pennsylvania,1
+845,Sandals,Footwear,Missouri,1
+846,Belt,Accessories,Michigan,1
+847,Boots,Footwear,Kentucky,1
+848,Hoodie,Clothing,New Jersey,1
+849,Sandals,Footwear,Delaware,1
+850,Jeans,Clothing,Missouri,1
+851,Shoes,Footwear,Connecticut,1
+852,Sandals,Footwear,Massachusetts,1
+853,Dress,Clothing,Florida,1
+854,Hat,Accessories,Delaware,1
+855,Pants,Clothing,California,1
+856,Socks,Clothing,Oregon,1
+857,Shirt,Clothing,Alaska,1
+858,Shorts,Clothing,Missouri,1
+859,Jacket,Outerwear,Oklahoma,1
+860,Hoodie,Clothing,Wisconsin,1
+861,Shoes,Footwear,South Carolina,1
+862,Skirt,Clothing,Virginia,1
+863,Coat,Outerwear,Arkansas,1
+864,Sneakers,Footwear,Vermont,1
+865,Jeans,Clothing,Kentucky,1
+866,Blouse,Clothing,Colorado,1
+867,Sunglasses,Accessories,New Mexico,1
+868,Jacket,Outerwear,Colorado,1
+869,Dress,Clothing,North Carolina,1
+870,Hat,Accessories,New Hampshire,1
+871,Hoodie,Clothing,West Virginia,1
+872,Handbag,Accessories,Hawaii,1
+873,Jeans,Clothing,North Dakota,1
+874,Boots,Footwear,Mississippi,1
+875,Jacket,Outerwear,Maine,1
+876,Sandals,Footwear,North Dakota,1
+877,Belt,Accessories,Nebraska,1
+878,Handbag,Accessories,Nebraska,1
+879,Sunglasses,Accessories,Tennessee,1
+880,Skirt,Clothing,Wyoming,1
+881,Backpack,Accessories,Nevada,1
+882,Sandals,Footwear,South Carolina,1
+883,Boots,Footwear,Virginia,1
+884,Sneakers,Footwear,Pennsylvania,1
+885,Skirt,Clothing,Hawaii,1
+886,Dress,Clothing,Ohio,1
+887,Shorts,Clothing,Utah,1
+888,Handbag,Accessories,Minnesota,1
+889,Scarf,Accessories,New Hampshire,1
+890,Belt,Accessories,Arizona,1
+891,Gloves,Accessories,New York,1
+892,Skirt,Clothing,Pennsylvania,1
+893,Shorts,Clothing,New Mexico,1
+894,Backpack,Accessories,Nebraska,1
+895,Hoodie,Clothing,Wyoming,1
+896,Hat,Accessories,Mississippi,1
+897,Jewelry,Accessories,Arkansas,1
+898,Shirt,Clothing,Illinois,1
+899,Belt,Accessories,Nevada,1
+900,Sweater,Clothing,Rhode Island,1
+901,Hat,Accessories,West Virginia,1
+902,Scarf,Accessories,Missouri,1
+903,Hat,Accessories,Kentucky,1
+904,Jacket,Outerwear,Washington,1
+905,T-shirt,Clothing,Alaska,1
+906,Dress,Clothing,Mississippi,1
+907,Pants,Clothing,South Carolina,1
+908,Sweater,Clothing,Missouri,1
+909,Sunglasses,Accessories,New Jersey,1
+910,Belt,Accessories,Louisiana,1
+911,Hoodie,Clothing,South Carolina,1
+912,Pants,Clothing,Vermont,1
+913,Hoodie,Clothing,Arkansas,1
+914,Sneakers,Footwear,Utah,1
+915,Dress,Clothing,Washington,1
+916,Dress,Clothing,Rhode Island,1
+917,Jeans,Clothing,Illinois,1
+918,Sweater,Clothing,Missouri,1
+919,Shorts,Clothing,North Carolina,1
+920,Shirt,Clothing,Massachusetts,1
+921,Belt,Accessories,Arkansas,1
+922,Coat,Outerwear,South Dakota,1
+923,Sneakers,Footwear,Georgia,1
+924,Shirt,Clothing,Arkansas,1
+925,Socks,Clothing,Kansas,1
+926,Jeans,Clothing,Arizona,1
+927,Jeans,Clothing,Massachusetts,1
+928,Sneakers,Footwear,New Mexico,1
+929,Dress,Clothing,Arkansas,1
+930,Boots,Footwear,Nebraska,1
+931,T-shirt,Clothing,Hawaii,1
+932,Coat,Outerwear,Nebraska,1
+933,Skirt,Clothing,Indiana,1
+934,Sneakers,Footwear,Colorado,1
+935,Jeans,Clothing,Oregon,1
+936,Hoodie,Clothing,Ohio,1
+937,Shoes,Footwear,Maine,1
+938,Shorts,Clothing,Iowa,1
+939,Blouse,Clothing,Wisconsin,1
+940,T-shirt,Clothing,New York,1
+941,Belt,Accessories,Colorado,1
+942,Handbag,Accessories,Illinois,1
+943,Dress,Clothing,Arizona,1
+944,Hat,Accessories,Oklahoma,1
+945,Belt,Accessories,Indiana,1
+946,Boots,Footwear,Minnesota,1
+947,Coat,Outerwear,Pennsylvania,1
+948,Blouse,Clothing,Indiana,1
+949,Hat,Accessories,Alabama,1
+950,Jeans,Clothing,Montana,1
+951,Backpack,Accessories,New Mexico,1
+952,Dress,Clothing,Alaska,1
+953,Hat,Accessories,Idaho,1
+954,Sunglasses,Accessories,Utah,1
+955,Hat,Accessories,Louisiana,1
+956,Dress,Clothing,Mississippi,1
+957,Shirt,Clothing,Mississippi,1
+958,Scarf,Accessories,Indiana,1
+959,Sneakers,Footwear,Washington,1
+960,Skirt,Clothing,Nevada,1
+961,Jewelry,Accessories,Louisiana,1
+962,Boots,Footwear,Pennsylvania,1
+963,Sunglasses,Accessories,Michigan,1
+964,Boots,Footwear,South Carolina,1
+965,Sandals,Footwear,Arizona,1
+966,Boots,Footwear,Delaware,1
+967,Dress,Clothing,Kentucky,1
+968,Hoodie,Clothing,Georgia,1
+969,Shorts,Clothing,North Carolina,1
+970,Coat,Outerwear,California,1
+971,Jeans,Clothing,California,1
+972,Sunglasses,Accessories,Indiana,1
+973,Sneakers,Footwear,Colorado,1
+974,Jacket,Outerwear,Colorado,1
+975,Skirt,Clothing,North Carolina,1
+976,Sweater,Clothing,Washington,1
+977,T-shirt,Clothing,Florida,1
+978,Belt,Accessories,Washington,1
+979,Gloves,Accessories,Colorado,1
+980,Hat,Accessories,New Hampshire,1
+981,Boots,Footwear,Maryland,1
+982,Belt,Accessories,Maryland,1
+983,Coat,Outerwear,Texas,1
+984,Hat,Accessories,New Mexico,1
+985,Shoes,Footwear,Utah,1
+986,Handbag,Accessories,West Virginia,1
+987,Scarf,Accessories,Connecticut,1
+988,Handbag,Accessories,West Virginia,1
+989,Pants,Clothing,Ohio,1
+990,Shoes,Footwear,Texas,1
+991,Sunglasses,Accessories,Washington,1
+992,Shorts,Clothing,Wisconsin,1
+993,Jacket,Outerwear,Louisiana,1
+994,Sandals,Footwear,Iowa,1
+995,Shoes,Footwear,New York,1
+996,Jewelry,Accessories,Idaho,1
+997,Sandals,Footwear,Delaware,1
+998,Pants,Clothing,Kentucky,1
+999,Shoes,Footwear,Connecticut,1
+1000,Socks,Clothing,New Mexico,1
+1001,Socks,Clothing,Georgia,1
+1002,Dress,Clothing,Washington,1
+1003,Shoes,Footwear,North Dakota,1
+1004,Hat,Accessories,Ohio,1
+1005,Backpack,Accessories,Tennessee,1
+1006,Backpack,Accessories,New York,1
+1007,Pants,Clothing,Michigan,1
+1008,Gloves,Accessories,Georgia,1
+1009,Scarf,Accessories,New Mexico,1
+1010,Hoodie,Clothing,Louisiana,1
+1011,Jeans,Clothing,South Dakota,1
+1012,Backpack,Accessories,Montana,1
+1013,Sandals,Footwear,New Mexico,1
+1014,Belt,Accessories,South Carolina,1
+1015,Shoes,Footwear,Ohio,1
+1016,Gloves,Accessories,North Carolina,1
+1017,Belt,Accessories,Idaho,1
+1018,Jacket,Outerwear,Oklahoma,1
+1019,Dress,Clothing,Georgia,1
+1020,Shirt,Clothing,Kentucky,1
+1021,Scarf,Accessories,Delaware,1
+1022,Coat,Outerwear,Massachusetts,1
+1023,Handbag,Accessories,Nebraska,1
+1024,Sunglasses,Accessories,Maine,1
+1025,T-shirt,Clothing,Pennsylvania,1
+1026,Shirt,Clothing,Nebraska,1
+1027,Handbag,Accessories,Virginia,1
+1028,Jewelry,Accessories,Ohio,1
+1029,Hoodie,Clothing,Nebraska,1
+1030,Gloves,Accessories,Ohio,1
+1031,Coat,Outerwear,Kentucky,1
+1032,Sandals,Footwear,Tennessee,1
+1033,Boots,Footwear,Maine,1
+1034,Pants,Clothing,Montana,1
+1035,Socks,Clothing,Maryland,1
+1036,Blouse,Clothing,Georgia,1
+1037,Handbag,Accessories,Hawaii,1
+1038,Jewelry,Accessories,Rhode Island,1
+1039,Pants,Clothing,Nebraska,1
+1040,Belt,Accessories,Michigan,1
+1041,Jeans,Clothing,North Carolina,1
+1042,Shirt,Clothing,Minnesota,1
+1043,Belt,Accessories,Maryland,1
+1044,Jeans,Clothing,Hawaii,1
+1045,Jeans,Clothing,Oregon,1
+1046,Sweater,Clothing,New Mexico,1
+1047,Sneakers,Footwear,Illinois,1
+1048,Socks,Clothing,Utah,1
+1049,Socks,Clothing,Maine,1
+1050,Sunglasses,Accessories,Virginia,1
+1051,Sneakers,Footwear,Florida,1
+1052,Socks,Clothing,Ohio,1
+1053,Shoes,Footwear,Virginia,1
+1054,Blouse,Clothing,Kansas,1
+1055,Shorts,Clothing,Arkansas,1
+1056,Jacket,Outerwear,Massachusetts,1
+1057,Sweater,Clothing,Idaho,1
+1058,Jacket,Outerwear,Wisconsin,1
+1059,Scarf,Accessories,New Mexico,1
+1060,Jacket,Outerwear,North Carolina,1
+1061,Sweater,Clothing,Iowa,1
+1062,Coat,Outerwear,Idaho,1
+1063,Boots,Footwear,Ohio,1
+1064,Hoodie,Clothing,Alabama,1
+1065,Hat,Accessories,Wyoming,1
+1066,T-shirt,Clothing,Alabama,1
+1067,Coat,Outerwear,Mississippi,1
+1068,Dress,Clothing,Pennsylvania,1
+1069,Shirt,Clothing,Wyoming,1
+1070,Skirt,Clothing,Maryland,1
+1071,Jewelry,Accessories,North Carolina,1
+1072,Hat,Accessories,Pennsylvania,1
+1073,Shorts,Clothing,Idaho,1
+1074,Scarf,Accessories,California,1
+1075,Jewelry,Accessories,Tennessee,1
+1076,Sunglasses,Accessories,Missouri,1
+1077,Coat,Outerwear,North Dakota,1
+1078,Jacket,Outerwear,West Virginia,1
+1079,Sweater,Clothing,Arizona,1
+1080,Coat,Outerwear,Oklahoma,1
+1081,Scarf,Accessories,Pennsylvania,1
+1082,Belt,Accessories,Idaho,1
+1083,Hat,Accessories,South Carolina,1
+1084,Backpack,Accessories,Washington,1
+1085,T-shirt,Clothing,Arkansas,1
+1086,Jewelry,Accessories,Utah,1
+1087,Sunglasses,Accessories,Alaska,1
+1088,Jeans,Clothing,West Virginia,1
+1089,Pants,Clothing,Louisiana,1
+1090,Backpack,Accessories,Arizona,1
+1091,Scarf,Accessories,Connecticut,1
+1092,Sweater,Clothing,North Carolina,1
+1093,Jewelry,Accessories,South Dakota,1
+1094,Sneakers,Footwear,Delaware,1
+1095,Jewelry,Accessories,Connecticut,1
+1096,Coat,Outerwear,Tennessee,1
+1097,Coat,Outerwear,New Hampshire,1
+1098,Sunglasses,Accessories,Vermont,1
+1099,Handbag,Accessories,Idaho,1
+1100,Sweater,Clothing,North Carolina,1
+1101,Pants,Clothing,Nevada,1
+1102,Gloves,Accessories,Delaware,1
+1103,Sweater,Clothing,Texas,1
+1104,Hoodie,Clothing,Tennessee,1
+1105,Hat,Accessories,Delaware,1
+1106,T-shirt,Clothing,Massachusetts,1
+1107,Skirt,Clothing,Minnesota,1
+1108,Sneakers,Footwear,Texas,1
+1109,Shorts,Clothing,Nebraska,1
+1110,Hoodie,Clothing,Oklahoma,1
+1111,Hoodie,Clothing,Texas,1
+1112,Shoes,Footwear,New York,1
+1113,Hoodie,Clothing,Washington,1
+1114,Sunglasses,Accessories,Maryland,1
+1115,Skirt,Clothing,New Hampshire,1
+1116,Hat,Accessories,New York,1
+1117,Backpack,Accessories,Hawaii,1
+1118,Sunglasses,Accessories,California,1
+1119,Belt,Accessories,Indiana,1
+1120,Jewelry,Accessories,Louisiana,1
+1121,Sneakers,Footwear,Pennsylvania,1
+1122,T-shirt,Clothing,Florida,1
+1123,Handbag,Accessories,North Carolina,1
+1124,Hat,Accessories,Massachusetts,1
+1125,Sweater,Clothing,Iowa,1
+1126,Sandals,Footwear,North Dakota,1
+1127,Scarf,Accessories,Iowa,1
+1128,Shirt,Clothing,Delaware,1
+1129,Gloves,Accessories,New York,1
+1130,Hoodie,Clothing,New Hampshire,1
+1131,Jewelry,Accessories,Kentucky,1
+1132,Shirt,Clothing,Illinois,1
+1133,Hoodie,Clothing,North Carolina,1
+1134,Shoes,Footwear,Connecticut,1
+1135,T-shirt,Clothing,Wisconsin,1
+1136,Skirt,Clothing,Massachusetts,1
+1137,Handbag,Accessories,Illinois,1
+1138,Shirt,Clothing,New Mexico,1
+1139,Pants,Clothing,Iowa,1
+1140,Coat,Outerwear,Alabama,1
+1141,Jeans,Clothing,Maryland,1
+1142,Gloves,Accessories,Ohio,1
+1143,T-shirt,Clothing,Ohio,1
+1144,Boots,Footwear,Nevada,1
+1145,Jeans,Clothing,South Carolina,1
+1146,Sneakers,Footwear,Nevada,1
+1147,Sneakers,Footwear,Wisconsin,1
+1148,Hat,Accessories,Tennessee,1
+1149,Pants,Clothing,Florida,1
+1150,Jewelry,Accessories,Georgia,1
+1151,Jewelry,Accessories,Kentucky,1
+1152,Blouse,Clothing,Ohio,1
+1153,Handbag,Accessories,Connecticut,1
+1154,Shirt,Clothing,Idaho,1
+1155,Dress,Clothing,Georgia,1
+1156,T-shirt,Clothing,Tennessee,1
+1157,Shoes,Footwear,Hawaii,1
+1158,Belt,Accessories,Maryland,1
+1159,Belt,Accessories,Nevada,1
+1160,Handbag,Accessories,New Hampshire,1
+1161,Scarf,Accessories,North Dakota,1
+1162,Shorts,Clothing,Oklahoma,1
+1163,Sandals,Footwear,North Carolina,1
+1164,Pants,Clothing,Tennessee,1
+1165,Dress,Clothing,Montana,1
+1166,T-shirt,Clothing,Wisconsin,1
+1167,Dress,Clothing,Connecticut,1
+1168,Socks,Clothing,New Jersey,1
+1169,Scarf,Accessories,Mississippi,1
+1170,Backpack,Accessories,Wyoming,1
+1171,Skirt,Clothing,Illinois,1
+1172,Socks,Clothing,Louisiana,1
+1173,Coat,Outerwear,Oregon,1
+1174,Jewelry,Accessories,South Dakota,1
+1175,Backpack,Accessories,Michigan,1
+1176,Belt,Accessories,New Jersey,1
+1177,Dress,Clothing,Oregon,1
+1178,Skirt,Clothing,Iowa,1
+1179,Dress,Clothing,South Carolina,1
+1180,T-shirt,Clothing,Indiana,1
+1181,Skirt,Clothing,Oregon,1
+1182,Shorts,Clothing,New York,1
+1183,Jewelry,Accessories,New Mexico,1
+1184,Pants,Clothing,Louisiana,1
+1185,Belt,Accessories,South Carolina,1
+1186,Jeans,Clothing,Maine,1
+1187,Jeans,Clothing,Indiana,1
+1188,Hat,Accessories,Iowa,1
+1189,Blouse,Clothing,Mississippi,1
+1190,Shirt,Clothing,Arkansas,1
+1191,Shirt,Clothing,South Carolina,1
+1192,T-shirt,Clothing,Indiana,1
+1193,Coat,Outerwear,Florida,1
+1194,Jacket,Outerwear,Alaska,1
+1195,Hoodie,Clothing,New York,1
+1196,Scarf,Accessories,Texas,1
+1197,Belt,Accessories,North Dakota,1
+1198,Sneakers,Footwear,Vermont,1
+1199,Socks,Clothing,New Jersey,1
+1200,Sandals,Footwear,Maryland,1
+1201,Coat,Outerwear,Connecticut,1
+1202,Shoes,Footwear,Illinois,1
+1203,Scarf,Accessories,Maryland,1
+1204,Sneakers,Footwear,Minnesota,1
+1205,Belt,Accessories,Florida,1
+1206,Handbag,Accessories,California,1
+1207,Handbag,Accessories,Mississippi,1
+1208,Boots,Footwear,Washington,1
+1209,Boots,Footwear,Wisconsin,1
+1210,Pants,Clothing,Pennsylvania,1
+1211,Sunglasses,Accessories,Missouri,1
+1212,Hoodie,Clothing,Oklahoma,1
+1213,Shoes,Footwear,Pennsylvania,1
+1214,Handbag,Accessories,Kentucky,1
+1215,Jacket,Outerwear,Vermont,1
+1216,Blouse,Clothing,Oregon,1
+1217,Pants,Clothing,Utah,1
+1218,Boots,Footwear,Nebraska,1
+1219,Boots,Footwear,Pennsylvania,1
+1220,Sweater,Clothing,Vermont,1
+1221,Gloves,Accessories,Kentucky,1
+1222,Socks,Clothing,Iowa,1
+1223,Jeans,Clothing,Indiana,1
+1224,Pants,Clothing,Kansas,1
+1225,Shorts,Clothing,Illinois,1
+1226,Gloves,Accessories,North Carolina,1
+1227,Sandals,Footwear,Ohio,1
+1228,Blouse,Clothing,Illinois,1
+1229,Jacket,Outerwear,Indiana,1
+1230,Jewelry,Accessories,Kansas,1
+1231,Hat,Accessories,Illinois,1
+1232,Socks,Clothing,Pennsylvania,1
+1233,Handbag,Accessories,New York,1
+1234,Pants,Clothing,Utah,1
+1235,Gloves,Accessories,New Jersey,1
+1236,Sweater,Clothing,Idaho,1
+1237,Hat,Accessories,New Mexico,1
+1238,Dress,Clothing,Michigan,1
+1239,Pants,Clothing,Wyoming,1
+1240,Coat,Outerwear,New Jersey,1
+1241,Scarf,Accessories,New Jersey,1
+1242,Hoodie,Clothing,Hawaii,1
+1243,Socks,Clothing,Nevada,1
+1244,Blouse,Clothing,New Hampshire,1
+1245,Socks,Clothing,Indiana,1
+1246,Dress,Clothing,New York,1
+1247,Hoodie,Clothing,Louisiana,1
+1248,T-shirt,Clothing,Virginia,1
+1249,Hat,Accessories,Wisconsin,1
+1250,Boots,Footwear,Oregon,1
+1251,Jeans,Clothing,New Hampshire,1
+1252,Shorts,Clothing,Indiana,1
+1253,Sandals,Footwear,Massachusetts,1
+1254,Sandals,Footwear,Montana,1
+1255,Sneakers,Footwear,California,1
+1256,Hat,Accessories,Indiana,1
+1257,Coat,Outerwear,West Virginia,1
+1258,Dress,Clothing,Minnesota,1
+1259,Boots,Footwear,Ohio,1
+1260,Skirt,Clothing,Minnesota,1
+1261,Shirt,Clothing,Virginia,1
+1262,Shirt,Clothing,Connecticut,1
+1263,Boots,Footwear,Tennessee,1
+1264,Hoodie,Clothing,Delaware,1
+1265,Sweater,Clothing,Vermont,1
+1266,Shirt,Clothing,Louisiana,1
+1267,Blouse,Clothing,North Dakota,1
+1268,T-shirt,Clothing,Oregon,1
+1269,Jacket,Outerwear,Idaho,1
+1270,Jewelry,Accessories,Vermont,1
+1271,Hoodie,Clothing,West Virginia,1
+1272,Jewelry,Accessories,Kentucky,1
+1273,Sandals,Footwear,Wisconsin,1
+1274,Jeans,Clothing,Mississippi,1
+1275,Hat,Accessories,Missouri,1
+1276,Sweater,Clothing,Arkansas,1
+1277,Boots,Footwear,Wyoming,1
+1278,Blouse,Clothing,Rhode Island,1
+1279,Shorts,Clothing,Utah,1
+1280,Hoodie,Clothing,Maryland,1
+1281,Pants,Clothing,Georgia,1
+1282,Belt,Accessories,New Jersey,1
+1283,Shirt,Clothing,New Hampshire,1
+1284,Shirt,Clothing,Oregon,1
+1285,Dress,Clothing,Arkansas,1
+1286,Gloves,Accessories,North Carolina,1
+1287,Gloves,Accessories,West Virginia,1
+1288,Jeans,Clothing,Utah,1
+1289,Belt,Accessories,South Dakota,1
+1290,Jacket,Outerwear,New Hampshire,1
+1291,Skirt,Clothing,Maryland,1
+1292,Sandals,Footwear,South Dakota,1
+1293,Belt,Accessories,Kentucky,1
+1294,Sweater,Clothing,Florida,1
+1295,Shirt,Clothing,Texas,1
+1296,Sneakers,Footwear,New Mexico,1
+1297,Jeans,Clothing,South Dakota,1
+1298,Sandals,Footwear,New Jersey,1
+1299,Pants,Clothing,Indiana,1
+1300,Belt,Accessories,Louisiana,1
+1301,T-shirt,Clothing,West Virginia,1
+1302,Shirt,Clothing,Maine,1
+1303,Sneakers,Footwear,Idaho,1
+1304,Blouse,Clothing,New York,1
+1305,Backpack,Accessories,Montana,1
+1306,Pants,Clothing,Mississippi,1
+1307,Sweater,Clothing,Alaska,1
+1308,Coat,Outerwear,Missouri,1
+1309,Dress,Clothing,Rhode Island,1
+1310,Blouse,Clothing,Hawaii,1
+1311,Hoodie,Clothing,South Carolina,1
+1312,Shoes,Footwear,Tennessee,1
+1313,T-shirt,Clothing,Missouri,1
+1314,Shoes,Footwear,Missouri,1
+1315,Boots,Footwear,Missouri,1
+1316,Shorts,Clothing,Mississippi,1
+1317,Belt,Accessories,Arkansas,1
+1318,Pants,Clothing,Kentucky,1
+1319,Shorts,Clothing,Connecticut,1
+1320,Sunglasses,Accessories,Oklahoma,1
+1321,Hat,Accessories,California,1
+1322,T-shirt,Clothing,Missouri,1
+1323,Pants,Clothing,Washington,1
+1324,Shorts,Clothing,New York,1
+1325,Jewelry,Accessories,Indiana,1
+1326,Backpack,Accessories,Oregon,1
+1327,Shoes,Footwear,Texas,1
+1328,Coat,Outerwear,Florida,1
+1329,Sweater,Clothing,Rhode Island,1
+1330,Gloves,Accessories,Texas,1
+1331,Handbag,Accessories,Vermont,1
+1332,Socks,Clothing,Maryland,1
+1333,Hoodie,Clothing,Alaska,1
+1334,Pants,Clothing,Idaho,1
+1335,Coat,Outerwear,West Virginia,1
+1336,Boots,Footwear,Nevada,1
+1337,Sneakers,Footwear,Oregon,1
+1338,Sweater,Clothing,Tennessee,1
+1339,Handbag,Accessories,Alabama,1
+1340,Belt,Accessories,Indiana,1
+1341,Belt,Accessories,Idaho,1
+1342,Hoodie,Clothing,Rhode Island,1
+1343,Sunglasses,Accessories,Arizona,1
+1344,Sneakers,Footwear,Florida,1
+1345,T-shirt,Clothing,New York,1
+1346,Dress,Clothing,Nebraska,1
+1347,Hoodie,Clothing,Mississippi,1
+1348,Sweater,Clothing,Vermont,1
+1349,Belt,Accessories,Nebraska,1
+1350,Socks,Clothing,South Carolina,1
+1351,Sunglasses,Accessories,Delaware,1
+1352,Coat,Outerwear,Vermont,1
+1353,Hat,Accessories,Indiana,1
+1354,Pants,Clothing,Oregon,1
+1355,Backpack,Accessories,Maryland,1
+1356,Shorts,Clothing,Florida,1
+1357,Jacket,Outerwear,Indiana,1
+1358,Backpack,Accessories,Texas,1
+1359,Scarf,Accessories,Nebraska,1
+1360,Hoodie,Clothing,North Carolina,1
+1361,Skirt,Clothing,Alabama,1
+1362,Dress,Clothing,Alabama,1
+1363,Coat,Outerwear,Colorado,1
+1364,Blouse,Clothing,Wisconsin,1
+1365,Hat,Accessories,Delaware,1
+1366,Handbag,Accessories,Indiana,1
+1367,Belt,Accessories,Iowa,1
+1368,Belt,Accessories,Iowa,1
+1369,Shirt,Clothing,Wisconsin,1
+1370,Shoes,Footwear,Iowa,1
+1371,Scarf,Accessories,Montana,1
+1372,Pants,Clothing,Mississippi,1
+1373,Blouse,Clothing,Michigan,1
+1374,Gloves,Accessories,Virginia,1
+1375,Handbag,Accessories,New York,1
+1376,Sneakers,Footwear,Maine,1
+1377,Sandals,Footwear,New Jersey,1
+1378,Sunglasses,Accessories,Maryland,1
+1379,Jacket,Outerwear,Kentucky,1
+1380,T-shirt,Clothing,Minnesota,1
+1381,Sneakers,Footwear,Massachusetts,1
+1382,Shoes,Footwear,Illinois,1
+1383,Jacket,Outerwear,Michigan,1
+1384,Scarf,Accessories,Wisconsin,1
+1385,Sneakers,Footwear,Alaska,1
+1386,Jewelry,Accessories,Mississippi,1
+1387,Jacket,Outerwear,Oregon,1
+1388,Blouse,Clothing,Maryland,1
+1389,Dress,Clothing,Arkansas,1
+1390,Scarf,Accessories,Illinois,1
+1391,Hat,Accessories,Arkansas,1
+1392,Blouse,Clothing,Mississippi,1
+1393,Gloves,Accessories,Arkansas,1
+1394,Gloves,Accessories,Idaho,1
+1395,Coat,Outerwear,Iowa,1
+1396,Scarf,Accessories,West Virginia,1
+1397,Pants,Clothing,Wisconsin,1
+1398,Sunglasses,Accessories,Massachusetts,1
+1399,Dress,Clothing,Texas,1
+1400,Hat,Accessories,Nebraska,1
+1401,Backpack,Accessories,Nevada,1
+1402,Sandals,Footwear,Indiana,1
+1403,Sunglasses,Accessories,North Dakota,1
+1404,Backpack,Accessories,Georgia,1
+1405,Jewelry,Accessories,New Mexico,1
+1406,Socks,Clothing,New Hampshire,1
+1407,Shirt,Clothing,Washington,1
+1408,Handbag,Accessories,Nevada,1
+1409,Blouse,Clothing,Maine,1
+1410,Backpack,Accessories,Idaho,1
+1411,Hat,Accessories,Tennessee,1
+1412,Skirt,Clothing,Louisiana,1
+1413,Shorts,Clothing,Michigan,1
+1414,Blouse,Clothing,New Hampshire,1
+1415,Socks,Clothing,Minnesota,1
+1416,Belt,Accessories,Illinois,1
+1417,Boots,Footwear,Idaho,1
+1418,Shorts,Clothing,Montana,1
+1419,Shirt,Clothing,Alabama,1
+1420,Handbag,Accessories,Montana,1
+1421,Jeans,Clothing,California,1
+1422,Dress,Clothing,Pennsylvania,1
+1423,Dress,Clothing,Texas,1
+1424,Sandals,Footwear,Michigan,1
+1425,Jacket,Outerwear,Connecticut,1
+1426,Coat,Outerwear,Wyoming,1
+1427,Pants,Clothing,Michigan,1
+1428,Backpack,Accessories,South Dakota,1
+1429,Blouse,Clothing,North Dakota,1
+1430,Skirt,Clothing,Maryland,1
+1431,Sandals,Footwear,Michigan,1
+1432,Pants,Clothing,South Dakota,1
+1433,Hat,Accessories,Florida,1
+1434,Hoodie,Clothing,Minnesota,1
+1435,Sweater,Clothing,New York,1
+1436,Scarf,Accessories,Oregon,1
+1437,Sneakers,Footwear,Minnesota,1
+1438,Boots,Footwear,Montana,1
+1439,Coat,Outerwear,Washington,1
+1440,Boots,Footwear,New Mexico,1
+1441,Sandals,Footwear,Arizona,1
+1442,Pants,Clothing,Nebraska,1
+1443,Hoodie,Clothing,Idaho,1
+1444,Sandals,Footwear,Idaho,1
+1445,Sweater,Clothing,Vermont,1
+1446,Belt,Accessories,Arkansas,1
+1447,Jeans,Clothing,Wyoming,1
+1448,Hoodie,Clothing,New Mexico,1
+1449,Boots,Footwear,West Virginia,1
+1450,Socks,Clothing,New York,1
+1451,Dress,Clothing,Illinois,1
+1452,Jacket,Outerwear,Utah,1
+1453,Jacket,Outerwear,Colorado,1
+1454,Boots,Footwear,Virginia,1
+1455,Sneakers,Footwear,Georgia,1
+1456,Pants,Clothing,Alabama,1
+1457,Coat,Outerwear,Montana,1
+1458,Shirt,Clothing,Pennsylvania,1
+1459,Sweater,Clothing,Missouri,1
+1460,Shoes,Footwear,Maine,1
+1461,Boots,Footwear,Pennsylvania,1
+1462,Sunglasses,Accessories,Oregon,1
+1463,Sneakers,Footwear,Utah,1
+1464,Jewelry,Accessories,Oklahoma,1
+1465,Belt,Accessories,Montana,1
+1466,Gloves,Accessories,Nebraska,1
+1467,Shorts,Clothing,Alabama,1
+1468,Jewelry,Accessories,Ohio,1
+1469,Gloves,Accessories,Arkansas,1
+1470,Jewelry,Accessories,Mississippi,1
+1471,Sandals,Footwear,California,1
+1472,Jewelry,Accessories,Alaska,1
+1473,Hat,Accessories,Indiana,1
+1474,Shorts,Clothing,Wisconsin,1
+1475,Sweater,Clothing,New Jersey,1
+1476,Blouse,Clothing,Rhode Island,1
+1477,Hat,Accessories,Wyoming,1
+1478,Belt,Accessories,Oregon,1
+1479,Gloves,Accessories,Washington,1
+1480,Coat,Outerwear,Washington,1
+1481,Jewelry,Accessories,New Hampshire,1
+1482,Skirt,Clothing,Maryland,1
+1483,Gloves,Accessories,Wisconsin,1
+1484,Jewelry,Accessories,Massachusetts,1
+1485,Shorts,Clothing,Nebraska,1
+1486,Gloves,Accessories,Nebraska,1
+1487,Sneakers,Footwear,Idaho,1
+1488,Skirt,Clothing,Arizona,1
+1489,Hat,Accessories,Hawaii,1
+1490,Jewelry,Accessories,Missouri,1
+1491,Sneakers,Footwear,Louisiana,1
+1492,Shirt,Clothing,Arkansas,1
+1493,Jacket,Outerwear,North Carolina,1
+1494,Belt,Accessories,North Dakota,1
+1495,T-shirt,Clothing,Montana,1
+1496,Jewelry,Accessories,Rhode Island,1
+1497,T-shirt,Clothing,Idaho,1
+1498,Jacket,Outerwear,Michigan,1
+1499,Sweater,Clothing,Illinois,1
+1500,Boots,Footwear,Georgia,1
+1501,Jeans,Clothing,Alabama,1
+1502,Jeans,Clothing,Alaska,1
+1503,Pants,Clothing,Massachusetts,1
+1504,Jacket,Outerwear,Michigan,1
+1505,Jacket,Outerwear,Alaska,1
+1506,Belt,Accessories,North Dakota,1
+1507,Shirt,Clothing,South Carolina,1
+1508,Dress,Clothing,Pennsylvania,1
+1509,Blouse,Clothing,Colorado,1
+1510,Dress,Clothing,New Hampshire,1
+1511,Blouse,Clothing,Maryland,1
+1512,Dress,Clothing,Georgia,1
+1513,Sneakers,Footwear,Wisconsin,1
+1514,Socks,Clothing,Texas,1
+1515,Shoes,Footwear,Utah,1
+1516,Jeans,Clothing,Indiana,1
+1517,Jeans,Clothing,Nevada,1
+1518,Gloves,Accessories,New Hampshire,1
+1519,Belt,Accessories,New York,1
+1520,Sunglasses,Accessories,Texas,1
+1521,Hat,Accessories,Iowa,1
+1522,Backpack,Accessories,Washington,1
+1523,Shorts,Clothing,Tennessee,1
+1524,Socks,Clothing,Georgia,1
+1525,Socks,Clothing,Massachusetts,1
+1526,Belt,Accessories,Oregon,1
+1527,Jacket,Outerwear,Oklahoma,1
+1528,Hat,Accessories,Wisconsin,1
+1529,T-shirt,Clothing,Oregon,1
+1530,Backpack,Accessories,Georgia,1
+1531,Coat,Outerwear,New Mexico,1
+1532,Backpack,Accessories,Mississippi,1
+1533,Jacket,Outerwear,Wisconsin,1
+1534,Shoes,Footwear,New Hampshire,1
+1535,Blouse,Clothing,Wyoming,1
+1536,Sandals,Footwear,West Virginia,1
+1537,Sunglasses,Accessories,Michigan,1
+1538,Shoes,Footwear,Alaska,1
+1539,Dress,Clothing,Illinois,1
+1540,Belt,Accessories,Hawaii,1
+1541,Shorts,Clothing,Colorado,1
+1542,Handbag,Accessories,Illinois,1
+1543,Blouse,Clothing,Hawaii,1
+1544,Jeans,Clothing,Wisconsin,1
+1545,Jewelry,Accessories,Arkansas,1
+1546,Belt,Accessories,Delaware,1
+1547,Sneakers,Footwear,Oregon,1
+1548,Hat,Accessories,South Carolina,1
+1549,Dress,Clothing,Maryland,1
+1550,Sneakers,Footwear,Kansas,1
+1551,Sunglasses,Accessories,Arkansas,1
+1552,Handbag,Accessories,Minnesota,1
+1553,Blouse,Clothing,New Mexico,1
+1554,Blouse,Clothing,Delaware,1
+1555,Shorts,Clothing,Utah,1
+1556,Shorts,Clothing,Ohio,1
+1557,Hoodie,Clothing,Alabama,1
+1558,Backpack,Accessories,South Dakota,1
+1559,Sunglasses,Accessories,New Mexico,1
+1560,Scarf,Accessories,Oregon,1
+1561,Hat,Accessories,Oregon,1
+1562,Scarf,Accessories,Mississippi,1
+1563,Scarf,Accessories,Alabama,1
+1564,Pants,Clothing,Kansas,1
+1565,Backpack,Accessories,California,1
+1566,Sunglasses,Accessories,Idaho,1
+1567,Sneakers,Footwear,Wyoming,1
+1568,Backpack,Accessories,Minnesota,1
+1569,Sneakers,Footwear,Washington,1
+1570,Skirt,Clothing,Hawaii,1
+1571,Pants,Clothing,Missouri,1
+1572,Jewelry,Accessories,Colorado,1
+1573,Skirt,Clothing,Washington,1
+1574,T-shirt,Clothing,North Dakota,1
+1575,Skirt,Clothing,Minnesota,1
+1576,Shirt,Clothing,California,1
+1577,Dress,Clothing,Michigan,1
+1578,Boots,Footwear,Delaware,1
+1579,Pants,Clothing,California,1
+1580,Jacket,Outerwear,Oklahoma,1
+1581,Sneakers,Footwear,North Dakota,1
+1582,Jewelry,Accessories,Ohio,1
+1583,Belt,Accessories,Hawaii,1
+1584,Scarf,Accessories,Maryland,1
+1585,Blouse,Clothing,Hawaii,1
+1586,Sweater,Clothing,Alabama,1
+1587,Boots,Footwear,Oklahoma,1
+1588,Socks,Clothing,Alabama,1
+1589,Belt,Accessories,Vermont,1
+1590,Sneakers,Footwear,Ohio,1
+1591,Jeans,Clothing,Wisconsin,1
+1592,Skirt,Clothing,South Dakota,1
+1593,Shoes,Footwear,Iowa,1
+1594,Dress,Clothing,Maryland,1
+1595,Handbag,Accessories,Colorado,1
+1596,Backpack,Accessories,Wisconsin,1
+1597,Jewelry,Accessories,Mississippi,1
+1598,Hat,Accessories,Mississippi,1
+1599,Jewelry,Accessories,California,1
+1600,Shirt,Clothing,Delaware,1
+1601,Boots,Footwear,Montana,1
+1602,Shirt,Clothing,Indiana,1
+1603,Sunglasses,Accessories,West Virginia,1
+1604,Shorts,Clothing,Iowa,1
+1605,Sweater,Clothing,Maine,1
+1606,Belt,Accessories,Connecticut,1
+1607,T-shirt,Clothing,Kansas,1
+1608,Shorts,Clothing,Vermont,1
+1609,Sandals,Footwear,Nebraska,1
+1610,Shirt,Clothing,Nevada,1
+1611,Socks,Clothing,Tennessee,1
+1612,Pants,Clothing,Arkansas,1
+1613,Skirt,Clothing,Wisconsin,1
+1614,Jewelry,Accessories,Illinois,1
+1615,T-shirt,Clothing,Kansas,1
+1616,Jewelry,Accessories,New York,1
+1617,Hat,Accessories,Colorado,1
+1618,Blouse,Clothing,Wisconsin,1
+1619,Sandals,Footwear,Michigan,1
+1620,Handbag,Accessories,Hawaii,1
+1621,Hat,Accessories,Virginia,1
+1622,Scarf,Accessories,Ohio,1
+1623,Shorts,Clothing,Missouri,1
+1624,Backpack,Accessories,Indiana,1
+1625,Sweater,Clothing,Florida,1
+1626,Skirt,Clothing,Minnesota,1
+1627,Sneakers,Footwear,Nevada,1
+1628,Sunglasses,Accessories,Maine,1
+1629,Dress,Clothing,Massachusetts,1
+1630,Blouse,Clothing,North Dakota,1
+1631,Shoes,Footwear,New Jersey,1
+1632,Sweater,Clothing,Indiana,1
+1633,Gloves,Accessories,Oregon,1
+1634,Socks,Clothing,North Dakota,1
+1635,Coat,Outerwear,South Carolina,1
+1636,Sunglasses,Accessories,North Carolina,1
+1637,Boots,Footwear,North Dakota,1
+1638,Dress,Clothing,Massachusetts,1
+1639,Jacket,Outerwear,Tennessee,1
+1640,Gloves,Accessories,Missouri,1
+1641,Scarf,Accessories,Tennessee,1
+1642,Hoodie,Clothing,Colorado,1
+1643,Coat,Outerwear,Mississippi,1
+1644,Scarf,Accessories,Ohio,1
+1645,Coat,Outerwear,North Carolina,1
+1646,Scarf,Accessories,Ohio,1
+1647,Handbag,Accessories,Nebraska,1
+1648,Boots,Footwear,Hawaii,1
+1649,Pants,Clothing,Oklahoma,1
+1650,T-shirt,Clothing,Wisconsin,1
+1651,Scarf,Accessories,Arkansas,1
+1652,Coat,Outerwear,Texas,1
+1653,Sweater,Clothing,New Mexico,1
+1654,Belt,Accessories,Colorado,1
+1655,Belt,Accessories,Indiana,1
+1656,Sweater,Clothing,Arizona,1
+1657,Blouse,Clothing,Indiana,1
+1658,Skirt,Clothing,Indiana,1
+1659,Jewelry,Accessories,Alaska,1
+1660,Gloves,Accessories,Utah,1
+1661,T-shirt,Clothing,Louisiana,1
+1662,Gloves,Accessories,Iowa,1
+1663,Sunglasses,Accessories,New Mexico,1
+1664,Shirt,Clothing,Maine,1
+1665,Handbag,Accessories,Minnesota,1
+1666,Jacket,Outerwear,New Mexico,1
+1667,Skirt,Clothing,Arkansas,1
+1668,Handbag,Accessories,Oklahoma,1
+1669,Blouse,Clothing,Utah,1
+1670,T-shirt,Clothing,Wisconsin,1
+1671,Pants,Clothing,Utah,1
+1672,Hoodie,Clothing,Utah,1
+1673,Boots,Footwear,South Carolina,1
+1674,Blouse,Clothing,Hawaii,1
+1675,Coat,Outerwear,Alaska,1
+1676,Pants,Clothing,Colorado,1
+1677,Sunglasses,Accessories,West Virginia,1
+1678,Jeans,Clothing,Oregon,1
+1679,Pants,Clothing,Ohio,1
+1680,Dress,Clothing,Massachusetts,1
+1681,Shoes,Footwear,Louisiana,1
+1682,Sneakers,Footwear,Virginia,1
+1683,Socks,Clothing,New York,1
+1684,Coat,Outerwear,Arkansas,1
+1685,Shirt,Clothing,New Mexico,1
+1686,Blouse,Clothing,Minnesota,1
+1687,Gloves,Accessories,Illinois,1
+1688,Skirt,Clothing,Georgia,1
+1689,Handbag,Accessories,Mississippi,1
+1690,Shirt,Clothing,North Carolina,1
+1691,Coat,Outerwear,Nevada,1
+1692,Shoes,Footwear,Connecticut,1
+1693,Handbag,Accessories,Utah,1
+1694,Jacket,Outerwear,Tennessee,1
+1695,Shirt,Clothing,Mississippi,1
+1696,Hat,Accessories,Nebraska,1
+1697,Sunglasses,Accessories,West Virginia,1
+1698,Shirt,Clothing,South Carolina,1
+1699,Belt,Accessories,Iowa,1
+1700,Sweater,Clothing,North Dakota,1
+1701,Hoodie,Clothing,West Virginia,1
+1702,Handbag,Accessories,Mississippi,1
+1703,Jeans,Clothing,Alabama,1
+1704,Backpack,Accessories,California,1
+1705,Sneakers,Footwear,Idaho,1
+1706,Jewelry,Accessories,South Dakota,1
+1707,Sunglasses,Accessories,North Dakota,1
+1708,Shorts,Clothing,Nevada,1
+1709,Boots,Footwear,Florida,1
+1710,Skirt,Clothing,Indiana,1
+1711,Pants,Clothing,Arkansas,1
+1712,T-shirt,Clothing,North Carolina,1
+1713,T-shirt,Clothing,Illinois,1
+1714,Jacket,Outerwear,Missouri,1
+1715,Jeans,Clothing,South Dakota,1
+1716,Dress,Clothing,Idaho,1
+1717,Blouse,Clothing,Connecticut,1
+1718,Hoodie,Clothing,Hawaii,1
+1719,T-shirt,Clothing,Maryland,1
+1720,Sweater,Clothing,Maryland,1
+1721,Shorts,Clothing,Massachusetts,1
+1722,Jewelry,Accessories,Delaware,1
+1723,T-shirt,Clothing,Massachusetts,1
+1724,Scarf,Accessories,New York,1
+1725,Shoes,Footwear,Delaware,1
+1726,Sunglasses,Accessories,Massachusetts,1
+1727,Coat,Outerwear,Indiana,1
+1728,Blouse,Clothing,Virginia,1
+1729,Jeans,Clothing,Wyoming,1
+1730,Shorts,Clothing,Illinois,1
+1731,Shirt,Clothing,Alabama,1
+1732,Backpack,Accessories,Idaho,1
+1733,Belt,Accessories,Rhode Island,1
+1734,Blouse,Clothing,New York,1
+1735,Jeans,Clothing,Missouri,1
+1736,Dress,Clothing,Texas,1
+1737,Shorts,Clothing,Tennessee,1
+1738,Jewelry,Accessories,Ohio,1
+1739,Handbag,Accessories,Tennessee,1
+1740,Jewelry,Accessories,Minnesota,1
+1741,Pants,Clothing,Wisconsin,1
+1742,Pants,Clothing,Delaware,1
+1743,Sandals,Footwear,Kansas,1
+1744,Skirt,Clothing,Missouri,1
+1745,Sunglasses,Accessories,Michigan,1
+1746,Skirt,Clothing,West Virginia,1
+1747,Handbag,Accessories,Alabama,1
+1748,Coat,Outerwear,New Hampshire,1
+1749,Skirt,Clothing,Montana,1
+1750,Hoodie,Clothing,Wyoming,1
+1751,Sunglasses,Accessories,Missouri,1
+1752,Sweater,Clothing,Ohio,1
+1753,Boots,Footwear,South Dakota,1
+1754,Skirt,Clothing,Colorado,1
+1755,Dress,Clothing,Massachusetts,1
+1756,Belt,Accessories,Delaware,1
+1757,Jewelry,Accessories,New Hampshire,1
+1758,Dress,Clothing,Michigan,1
+1759,Hat,Accessories,Pennsylvania,1
+1760,Sweater,Clothing,Louisiana,1
+1761,Skirt,Clothing,Minnesota,1
+1762,Hoodie,Clothing,Hawaii,1
+1763,Sandals,Footwear,Idaho,1
+1764,Jewelry,Accessories,Vermont,1
+1765,Dress,Clothing,Delaware,1
+1766,Hoodie,Clothing,New Mexico,1
+1767,Sweater,Clothing,Alaska,1
+1768,Jewelry,Accessories,Minnesota,1
+1769,Sandals,Footwear,Nebraska,1
+1770,Socks,Clothing,Alaska,1
+1771,Backpack,Accessories,Michigan,1
+1772,Shirt,Clothing,Indiana,1
+1773,Shoes,Footwear,Hawaii,1
+1774,Coat,Outerwear,West Virginia,1
+1775,Sweater,Clothing,New York,1
+1776,Jacket,Outerwear,Iowa,1
+1777,Jacket,Outerwear,Arizona,1
+1778,Sneakers,Footwear,Minnesota,1
+1779,Belt,Accessories,Texas,1
+1780,Scarf,Accessories,Virginia,1
+1781,Jewelry,Accessories,North Dakota,1
+1782,T-shirt,Clothing,Iowa,1
+1783,Pants,Clothing,Utah,1
+1784,Handbag,Accessories,Ohio,1
+1785,Backpack,Accessories,Louisiana,1
+1786,Gloves,Accessories,Iowa,1
+1787,Jacket,Outerwear,Maryland,1
+1788,Sweater,Clothing,Montana,1
+1789,Blouse,Clothing,Illinois,1
+1790,Blouse,Clothing,Arizona,1
+1791,Gloves,Accessories,North Carolina,1
+1792,Jeans,Clothing,Montana,1
+1793,Sneakers,Footwear,Iowa,1
+1794,Hat,Accessories,Iowa,1
+1795,Backpack,Accessories,Ohio,1
+1796,Jeans,Clothing,Wisconsin,1
+1797,Skirt,Clothing,South Carolina,1
+1798,Belt,Accessories,Oregon,1
+1799,Dress,Clothing,North Dakota,1
+1800,Hoodie,Clothing,California,1
+1801,Coat,Outerwear,Mississippi,1
+1802,Sweater,Clothing,New Jersey,1
+1803,Shorts,Clothing,Rhode Island,1
+1804,Sneakers,Footwear,New Hampshire,1
+1805,Sweater,Clothing,Louisiana,1
+1806,T-shirt,Clothing,Arizona,1
+1807,Handbag,Accessories,Rhode Island,1
+1808,Sneakers,Footwear,Vermont,1
+1809,Jacket,Outerwear,Tennessee,1
+1810,Backpack,Accessories,Alaska,1
+1811,Jeans,Clothing,Maryland,1
+1812,Belt,Accessories,Wisconsin,1
+1813,Boots,Footwear,Nevada,1
+1814,Shorts,Clothing,Illinois,1
+1815,Jeans,Clothing,Montana,1
+1816,Shoes,Footwear,New Mexico,1
+1817,Hat,Accessories,Virginia,1
+1818,T-shirt,Clothing,Delaware,1
+1819,Sunglasses,Accessories,North Carolina,1
+1820,Socks,Clothing,Nevada,1
+1821,Shirt,Clothing,Washington,1
+1822,Shorts,Clothing,Maine,1
+1823,Shirt,Clothing,Connecticut,1
+1824,Socks,Clothing,Louisiana,1
+1825,Pants,Clothing,Illinois,1
+1826,Boots,Footwear,South Dakota,1
+1827,T-shirt,Clothing,Indiana,1
+1828,T-shirt,Clothing,Vermont,1
+1829,Coat,Outerwear,New Hampshire,1
+1830,Hat,Accessories,Oregon,1
+1831,Sunglasses,Accessories,Kansas,1
+1832,Blouse,Clothing,Maine,1
+1833,Jewelry,Accessories,Louisiana,1
+1834,Jewelry,Accessories,Louisiana,1
+1835,Skirt,Clothing,Indiana,1
+1836,Scarf,Accessories,Kentucky,1
+1837,Pants,Clothing,South Carolina,1
+1838,Hat,Accessories,Montana,1
+1839,Gloves,Accessories,Vermont,1
+1840,Shirt,Clothing,Mississippi,1
+1841,Sandals,Footwear,Wyoming,1
+1842,Socks,Clothing,Vermont,1
+1843,Handbag,Accessories,Alabama,1
+1844,Jacket,Outerwear,Kentucky,1
+1845,Shorts,Clothing,South Dakota,1
+1846,Sandals,Footwear,Delaware,1
+1847,Scarf,Accessories,Wisconsin,1
+1848,Sandals,Footwear,Arizona,1
+1849,Jeans,Clothing,Maine,1
+1850,Skirt,Clothing,New Mexico,1
+1851,Gloves,Accessories,Wyoming,1
+1852,Skirt,Clothing,Delaware,1
+1853,Sweater,Clothing,Pennsylvania,1
+1854,Blouse,Clothing,North Dakota,1
+1855,Sweater,Clothing,Kentucky,1
+1856,Shirt,Clothing,Rhode Island,1
+1857,Jewelry,Accessories,Arizona,1
+1858,T-shirt,Clothing,Colorado,1
+1859,Scarf,Accessories,Maine,1
+1860,Belt,Accessories,New Jersey,1
+1861,T-shirt,Clothing,Kansas,1
+1862,Sneakers,Footwear,South Dakota,1
+1863,Gloves,Accessories,New Hampshire,1
+1864,Sandals,Footwear,Connecticut,1
+1865,Backpack,Accessories,Wyoming,1
+1866,Pants,Clothing,Missouri,1
+1867,T-shirt,Clothing,Alaska,1
+1868,Skirt,Clothing,Delaware,1
+1869,Gloves,Accessories,Indiana,1
+1870,Blouse,Clothing,West Virginia,1
+1871,Blouse,Clothing,Wyoming,1
+1872,Jeans,Clothing,Illinois,1
+1873,T-shirt,Clothing,Alaska,1
+1874,Sweater,Clothing,Wisconsin,1
+1875,Pants,Clothing,Indiana,1
+1876,Boots,Footwear,Tennessee,1
+1877,Skirt,Clothing,Illinois,1
+1878,Gloves,Accessories,Pennsylvania,1
+1879,Socks,Clothing,Oklahoma,1
+1880,T-shirt,Clothing,Tennessee,1
+1881,Blouse,Clothing,New Jersey,1
+1882,Blouse,Clothing,New Jersey,1
+1883,Scarf,Accessories,Tennessee,1
+1884,Backpack,Accessories,Georgia,1
+1885,Shorts,Clothing,Arizona,1
+1886,Jewelry,Accessories,Nevada,1
+1887,Gloves,Accessories,Arkansas,1
+1888,Hoodie,Clothing,North Dakota,1
+1889,Hoodie,Clothing,South Dakota,1
+1890,Skirt,Clothing,North Carolina,1
+1891,Sunglasses,Accessories,Hawaii,1
+1892,Jewelry,Accessories,New Hampshire,1
+1893,Jacket,Outerwear,California,1
+1894,Dress,Clothing,Delaware,1
+1895,Hoodie,Clothing,Arizona,1
+1896,Jeans,Clothing,Washington,1
+1897,Sandals,Footwear,Nevada,1
+1898,Sunglasses,Accessories,Alaska,1
+1899,Pants,Clothing,Texas,1
+1900,Shorts,Clothing,New York,1
+1901,Jewelry,Accessories,Iowa,1
+1902,Socks,Clothing,Arizona,1
+1903,Sandals,Footwear,New Mexico,1
+1904,Pants,Clothing,North Carolina,1
+1905,T-shirt,Clothing,Nevada,1
+1906,Boots,Footwear,Idaho,1
+1907,Backpack,Accessories,Vermont,1
+1908,Skirt,Clothing,New Mexico,1
+1909,Scarf,Accessories,Georgia,1
+1910,Sweater,Clothing,Kentucky,1
+1911,Sandals,Footwear,New York,1
+1912,Jewelry,Accessories,Arizona,1
+1913,Sweater,Clothing,Colorado,1
+1914,Skirt,Clothing,Kentucky,1
+1915,Shorts,Clothing,Alaska,1
+1916,Backpack,Accessories,Alabama,1
+1917,Hoodie,Clothing,Connecticut,1
+1918,Skirt,Clothing,Hawaii,1
+1919,Skirt,Clothing,Idaho,1
+1920,Backpack,Accessories,Virginia,1
+1921,Blouse,Clothing,Connecticut,1
+1922,Shirt,Clothing,Michigan,1
+1923,Gloves,Accessories,Kentucky,1
+1924,Sandals,Footwear,Nebraska,1
+1925,Jacket,Outerwear,Michigan,1
+1926,Sneakers,Footwear,Utah,1
+1927,Backpack,Accessories,New Mexico,1
+1928,Pants,Clothing,Florida,1
+1929,Sunglasses,Accessories,Mississippi,1
+1930,Jeans,Clothing,Hawaii,1
+1931,Pants,Clothing,North Carolina,1
+1932,Jewelry,Accessories,Illinois,1
+1933,Hoodie,Clothing,Maryland,1
+1934,Sandals,Footwear,Montana,1
+1935,Jacket,Outerwear,Michigan,1
+1936,Blouse,Clothing,North Carolina,1
+1937,Jewelry,Accessories,Minnesota,1
+1938,Socks,Clothing,Delaware,1
+1939,Jeans,Clothing,Kentucky,1
+1940,Gloves,Accessories,Ohio,1
+1941,Hat,Accessories,Alaska,1
+1942,Shoes,Footwear,Vermont,1
+1943,Pants,Clothing,Alabama,1
+1944,Socks,Clothing,Wisconsin,1
+1945,Hoodie,Clothing,Arkansas,1
+1946,Hoodie,Clothing,Georgia,1
+1947,Pants,Clothing,Louisiana,1
+1948,Shirt,Clothing,New York,1
+1949,T-shirt,Clothing,Connecticut,1
+1950,Dress,Clothing,Nebraska,1
+1951,Backpack,Accessories,Arkansas,1
+1952,Gloves,Accessories,Connecticut,1
+1953,Shoes,Footwear,Maryland,1
+1954,Skirt,Clothing,Colorado,1
+1955,Gloves,Accessories,Colorado,1
+1956,Hoodie,Clothing,Maine,1
+1957,Socks,Clothing,Oklahoma,1
+1958,Gloves,Accessories,South Carolina,1
+1959,Shorts,Clothing,Nevada,1
+1960,Shoes,Footwear,Colorado,1
+1961,Jeans,Clothing,Massachusetts,1
+1962,Boots,Footwear,Nevada,1
+1963,Hat,Accessories,Iowa,1
+1964,Shorts,Clothing,Michigan,1
+1965,Pants,Clothing,West Virginia,1
+1966,Sweater,Clothing,Indiana,1
+1967,Jacket,Outerwear,Indiana,1
+1968,Dress,Clothing,Georgia,1
+1969,Shirt,Clothing,Minnesota,1
+1970,Dress,Clothing,Louisiana,1
+1971,Belt,Accessories,Maryland,1
+1972,Hat,Accessories,Pennsylvania,1
+1973,Backpack,Accessories,Louisiana,1
+1974,Skirt,Clothing,Maryland,1
+1975,Gloves,Accessories,Tennessee,1
+1976,Jacket,Outerwear,Illinois,1
+1977,Handbag,Accessories,Wyoming,1
+1978,Sandals,Footwear,Florida,1
+1979,Sunglasses,Accessories,Massachusetts,1
+1980,Jeans,Clothing,Tennessee,1
+1981,Sandals,Footwear,Iowa,1
+1982,Shoes,Footwear,Michigan,1
+1983,Sunglasses,Accessories,Kansas,1
+1984,Scarf,Accessories,Georgia,1
+1985,Skirt,Clothing,West Virginia,1
+1986,Gloves,Accessories,Tennessee,1
+1987,Coat,Outerwear,Arkansas,1
+1988,Belt,Accessories,Vermont,1
+1989,Pants,Clothing,Virginia,1
+1990,Jewelry,Accessories,Maryland,1
+1991,Backpack,Accessories,Connecticut,1
+1992,Sneakers,Footwear,Missouri,1
+1993,Hoodie,Clothing,New Jersey,1
+1994,Blouse,Clothing,Arkansas,1
+1995,Sunglasses,Accessories,Nevada,1
+1996,Boots,Footwear,Missouri,1
+1997,Sneakers,Footwear,South Dakota,1
+1998,Backpack,Accessories,Connecticut,1
+1999,Pants,Clothing,Vermont,1
+2000,Socks,Clothing,Tennessee,1
+2001,Belt,Accessories,California,1
+2002,Sunglasses,Accessories,Wyoming,1
+2003,Shirt,Clothing,New York,1
+2004,Sneakers,Footwear,Maine,1
+2005,Shoes,Footwear,Georgia,1
+2006,Sandals,Footwear,Tennessee,1
+2007,Scarf,Accessories,New Mexico,1
+2008,Shirt,Clothing,Virginia,1
+2009,Skirt,Clothing,Florida,1
+2010,Boots,Footwear,Alabama,1
+2011,Sweater,Clothing,Texas,1
+2012,Sandals,Footwear,West Virginia,1
+2013,Jeans,Clothing,Nevada,1
+2014,Backpack,Accessories,Virginia,1
+2015,Skirt,Clothing,Wisconsin,1
+2016,Belt,Accessories,Virginia,1
+2017,Shoes,Footwear,Maine,1
+2018,Socks,Clothing,Massachusetts,1
+2019,Backpack,Accessories,Arkansas,1
+2020,Shirt,Clothing,Idaho,1
+2021,Sweater,Clothing,Pennsylvania,1
+2022,Handbag,Accessories,Maine,1
+2023,Jewelry,Accessories,Alabama,1
+2024,Socks,Clothing,Idaho,1
+2025,Socks,Clothing,Arkansas,1
+2026,Shirt,Clothing,Delaware,1
+2027,Scarf,Accessories,Maine,1
+2028,Shoes,Footwear,Nebraska,1
+2029,Shoes,Footwear,Ohio,1
+2030,Scarf,Accessories,Montana,1
+2031,Sunglasses,Accessories,New Mexico,1
+2032,Socks,Clothing,North Carolina,1
+2033,Blouse,Clothing,South Carolina,1
+2034,Jeans,Clothing,Illinois,1
+2035,Shorts,Clothing,Alabama,1
+2036,T-shirt,Clothing,Oklahoma,1
+2037,Blouse,Clothing,Minnesota,1
+2038,Belt,Accessories,Illinois,1
+2039,Blouse,Clothing,Arkansas,1
+2040,T-shirt,Clothing,Minnesota,1
+2041,Jewelry,Accessories,South Carolina,1
+2042,Jacket,Outerwear,New York,1
+2043,Shoes,Footwear,Alabama,1
+2044,Gloves,Accessories,New York,1
+2045,Jeans,Clothing,Missouri,1
+2046,Jewelry,Accessories,Georgia,1
+2047,Pants,Clothing,Oklahoma,1
+2048,Jewelry,Accessories,Connecticut,1
+2049,Sneakers,Footwear,Michigan,1
+2050,Boots,Footwear,Rhode Island,1
+2051,Hat,Accessories,Mississippi,1
+2052,T-shirt,Clothing,Massachusetts,1
+2053,Backpack,Accessories,New Hampshire,1
+2054,Sunglasses,Accessories,Wyoming,1
+2055,Sweater,Clothing,New Jersey,1
+2056,Handbag,Accessories,Texas,1
+2057,Backpack,Accessories,Minnesota,1
+2058,Socks,Clothing,South Dakota,1
+2059,Shirt,Clothing,Washington,1
+2060,Shorts,Clothing,California,1
+2061,Belt,Accessories,Wisconsin,1
+2062,Sweater,Clothing,Michigan,1
+2063,Coat,Outerwear,South Carolina,1
+2064,Shorts,Clothing,Indiana,1
+2065,Shoes,Footwear,Arkansas,1
+2066,Sneakers,Footwear,Oregon,1
+2067,Sneakers,Footwear,Illinois,1
+2068,Pants,Clothing,Maryland,1
+2069,Jewelry,Accessories,Vermont,1
+2070,T-shirt,Clothing,Texas,1
+2071,Jewelry,Accessories,Nebraska,1
+2072,Jacket,Outerwear,South Carolina,1
+2073,Backpack,Accessories,Massachusetts,1
+2074,Belt,Accessories,Texas,1
+2075,Scarf,Accessories,Florida,1
+2076,Sweater,Clothing,South Carolina,1
+2077,Gloves,Accessories,Florida,1
+2078,Scarf,Accessories,Nebraska,1
+2079,Dress,Clothing,Hawaii,1
+2080,Jeans,Clothing,Montana,1
+2081,Sunglasses,Accessories,South Dakota,1
+2082,Coat,Outerwear,Alabama,1
+2083,Jeans,Clothing,Arkansas,1
+2084,Scarf,Accessories,Mississippi,1
+2085,Blouse,Clothing,Vermont,1
+2086,Jeans,Clothing,New York,1
+2087,Dress,Clothing,North Dakota,1
+2088,Hat,Accessories,Wisconsin,1
+2089,Sandals,Footwear,California,1
+2090,Jacket,Outerwear,Maryland,1
+2091,Socks,Clothing,Massachusetts,1
+2092,Jeans,Clothing,Washington,1
+2093,Sandals,Footwear,Minnesota,1
+2094,Dress,Clothing,Washington,1
+2095,Socks,Clothing,South Carolina,1
+2096,Hoodie,Clothing,New Mexico,1
+2097,Dress,Clothing,North Carolina,1
+2098,Sneakers,Footwear,Iowa,1
+2099,T-shirt,Clothing,Louisiana,1
+2100,T-shirt,Clothing,Oklahoma,1
+2101,Sweater,Clothing,Michigan,1
+2102,Shirt,Clothing,Oregon,1
+2103,Hat,Accessories,Idaho,1
+2104,Pants,Clothing,Indiana,1
+2105,Shoes,Footwear,New Mexico,1
+2106,Gloves,Accessories,South Carolina,1
+2107,Jewelry,Accessories,Vermont,1
+2108,Pants,Clothing,Delaware,1
+2109,Hoodie,Clothing,North Dakota,1
+2110,Jewelry,Accessories,California,1
+2111,Socks,Clothing,Montana,1
+2112,Sunglasses,Accessories,Missouri,1
+2113,Belt,Accessories,Tennessee,1
+2114,Dress,Clothing,Virginia,1
+2115,Shirt,Clothing,Vermont,1
+2116,Scarf,Accessories,Rhode Island,1
+2117,Jacket,Outerwear,Kansas,1
+2118,Dress,Clothing,Colorado,1
+2119,Socks,Clothing,Georgia,1
+2120,Jewelry,Accessories,Nebraska,1
+2121,Scarf,Accessories,Missouri,1
+2122,Backpack,Accessories,Alaska,1
+2123,Jacket,Outerwear,Virginia,1
+2124,Coat,Outerwear,Nebraska,1
+2125,Skirt,Clothing,Rhode Island,1
+2126,Coat,Outerwear,New Hampshire,1
+2127,Shoes,Footwear,Alabama,1
+2128,Boots,Footwear,North Carolina,1
+2129,Coat,Outerwear,New Mexico,1
+2130,Skirt,Clothing,Minnesota,1
+2131,Backpack,Accessories,Arizona,1
+2132,Shorts,Clothing,Montana,1
+2133,Skirt,Clothing,Vermont,1
+2134,Hat,Accessories,Maine,1
+2135,Sandals,Footwear,Virginia,1
+2136,Sunglasses,Accessories,California,1
+2137,Sunglasses,Accessories,New York,1
+2138,Socks,Clothing,Indiana,1
+2139,Sweater,Clothing,Mississippi,1
+2140,Boots,Footwear,New York,1
+2141,Handbag,Accessories,New Mexico,1
+2142,Dress,Clothing,Kentucky,1
+2143,Hat,Accessories,North Dakota,1
+2144,Sandals,Footwear,Arkansas,1
+2145,Shoes,Footwear,Maryland,1
+2146,Skirt,Clothing,Connecticut,1
+2147,Sunglasses,Accessories,Utah,1
+2148,Skirt,Clothing,Missouri,1
+2149,T-shirt,Clothing,Nebraska,1
+2150,Sandals,Footwear,Hawaii,1
+2151,Shirt,Clothing,Illinois,1
+2152,Jeans,Clothing,Vermont,1
+2153,Shorts,Clothing,New Jersey,1
+2154,Shirt,Clothing,Kentucky,1
+2155,Scarf,Accessories,Wyoming,1
+2156,Handbag,Accessories,Hawaii,1
+2157,Skirt,Clothing,Missouri,1
+2158,Handbag,Accessories,Mississippi,1
+2159,Gloves,Accessories,Massachusetts,1
+2160,Shirt,Clothing,Louisiana,1
+2161,Blouse,Clothing,West Virginia,1
+2162,Dress,Clothing,Washington,1
+2163,Shorts,Clothing,Oregon,1
+2164,Shoes,Footwear,New York,1
+2165,Sandals,Footwear,Iowa,1
+2166,Pants,Clothing,Idaho,1
+2167,Jacket,Outerwear,New Jersey,1
+2168,Skirt,Clothing,Ohio,1
+2169,Handbag,Accessories,Connecticut,1
+2170,Coat,Outerwear,Florida,1
+2171,Sweater,Clothing,South Carolina,1
+2172,Shorts,Clothing,Missouri,1
+2173,Skirt,Clothing,Rhode Island,1
+2174,Gloves,Accessories,Delaware,1
+2175,Backpack,Accessories,Colorado,1
+2176,Dress,Clothing,Nebraska,1
+2177,Belt,Accessories,Vermont,1
+2178,Gloves,Accessories,Montana,1
+2179,Jewelry,Accessories,Florida,1
+2180,Socks,Clothing,Delaware,1
+2181,Coat,Outerwear,Connecticut,1
+2182,Handbag,Accessories,Hawaii,1
+2183,Blouse,Clothing,New Mexico,1
+2184,Shorts,Clothing,Kansas,1
+2185,Shoes,Footwear,Nevada,1
+2186,Shorts,Clothing,North Carolina,1
+2187,Sandals,Footwear,New Mexico,1
+2188,Blouse,Clothing,Idaho,1
+2189,Coat,Outerwear,California,1
+2190,Blouse,Clothing,Wisconsin,1
+2191,Belt,Accessories,Alaska,1
+2192,Blouse,Clothing,Pennsylvania,1
+2193,Scarf,Accessories,Virginia,1
+2194,Shirt,Clothing,California,1
+2195,Socks,Clothing,Kentucky,1
+2196,Jeans,Clothing,New York,1
+2197,Dress,Clothing,Vermont,1
+2198,Boots,Footwear,Pennsylvania,1
+2199,Scarf,Accessories,New York,1
+2200,Scarf,Accessories,North Carolina,1
+2201,Gloves,Accessories,Wyoming,1
+2202,Pants,Clothing,Ohio,1
+2203,Dress,Clothing,Alabama,1
+2204,Dress,Clothing,Rhode Island,1
+2205,Jeans,Clothing,Oregon,1
+2206,Sweater,Clothing,North Dakota,1
+2207,Sandals,Footwear,Illinois,1
+2208,Handbag,Accessories,New Mexico,1
+2209,Scarf,Accessories,Colorado,1
+2210,Sandals,Footwear,Utah,1
+2211,Sunglasses,Accessories,Virginia,1
+2212,Sweater,Clothing,Maine,1
+2213,Pants,Clothing,Nebraska,1
+2214,Hat,Accessories,Hawaii,1
+2215,Belt,Accessories,Idaho,1
+2216,Sandals,Footwear,West Virginia,1
+2217,Pants,Clothing,Vermont,1
+2218,Jewelry,Accessories,Indiana,1
+2219,Sunglasses,Accessories,Idaho,1
+2220,Blouse,Clothing,Minnesota,1
+2221,Belt,Accessories,Wyoming,1
+2222,Shorts,Clothing,Kansas,1
+2223,Pants,Clothing,Georgia,1
+2224,Sandals,Footwear,Kansas,1
+2225,Gloves,Accessories,Nebraska,1
+2226,Belt,Accessories,Washington,1
+2227,Shirt,Clothing,Missouri,1
+2228,Scarf,Accessories,Washington,1
+2229,Gloves,Accessories,Kansas,1
+2230,Pants,Clothing,Minnesota,1
+2231,Sneakers,Footwear,Colorado,1
+2232,Jacket,Outerwear,Utah,1
+2233,Shoes,Footwear,North Carolina,1
+2234,Blouse,Clothing,Florida,1
+2235,Boots,Footwear,New Hampshire,1
+2236,Socks,Clothing,Illinois,1
+2237,T-shirt,Clothing,Louisiana,1
+2238,Sandals,Footwear,Alabama,1
+2239,Sneakers,Footwear,Florida,1
+2240,Jewelry,Accessories,Alabama,1
+2241,Sandals,Footwear,California,1
+2242,Jacket,Outerwear,Maryland,1
+2243,Skirt,Clothing,Nevada,1
+2244,Shirt,Clothing,Massachusetts,1
+2245,Shorts,Clothing,South Carolina,1
+2246,Socks,Clothing,Delaware,1
+2247,Jacket,Outerwear,Hawaii,1
+2248,Jewelry,Accessories,Florida,1
+2249,T-shirt,Clothing,Rhode Island,1
+2250,Gloves,Accessories,Wyoming,1
+2251,Shoes,Footwear,Colorado,1
+2252,Shoes,Footwear,Virginia,1
+2253,Shoes,Footwear,Nebraska,1
+2254,Hoodie,Clothing,Oklahoma,1
+2255,Belt,Accessories,North Dakota,1
+2256,Coat,Outerwear,Michigan,1
+2257,Blouse,Clothing,California,1
+2258,Skirt,Clothing,Tennessee,1
+2259,T-shirt,Clothing,Ohio,1
+2260,Jeans,Clothing,Florida,1
+2261,Scarf,Accessories,Missouri,1
+2262,Backpack,Accessories,South Carolina,1
+2263,Backpack,Accessories,Arizona,1
+2264,Scarf,Accessories,Indiana,1
+2265,Hat,Accessories,North Dakota,1
+2266,Coat,Outerwear,Montana,1
+2267,Dress,Clothing,Missouri,1
+2268,Gloves,Accessories,Kentucky,1
+2269,Sweater,Clothing,Georgia,1
+2270,Skirt,Clothing,Kentucky,1
+2271,Blouse,Clothing,Georgia,1
+2272,Dress,Clothing,Alaska,1
+2273,Jacket,Outerwear,Maine,1
+2274,Coat,Outerwear,New Mexico,1
+2275,Dress,Clothing,New York,1
+2276,Shorts,Clothing,Oklahoma,1
+2277,Jeans,Clothing,Wyoming,1
+2278,Hat,Accessories,Alabama,1
+2279,Gloves,Accessories,Maryland,1
+2280,Sneakers,Footwear,West Virginia,1
+2281,Shoes,Footwear,Kentucky,1
+2282,Hoodie,Clothing,Kansas,1
+2283,Sneakers,Footwear,Idaho,1
+2284,Handbag,Accessories,Ohio,1
+2285,Blouse,Clothing,Iowa,1
+2286,Belt,Accessories,Michigan,1
+2287,Socks,Clothing,South Dakota,1
+2288,Blouse,Clothing,Nebraska,1
+2289,Jewelry,Accessories,California,1
+2290,Shorts,Clothing,Nevada,1
+2291,Boots,Footwear,Kansas,1
+2292,Coat,Outerwear,Ohio,1
+2293,T-shirt,Clothing,Vermont,1
+2294,Sweater,Clothing,Georgia,1
+2295,Sunglasses,Accessories,Maryland,1
+2296,Hat,Accessories,Connecticut,1
+2297,Gloves,Accessories,Washington,1
+2298,Socks,Clothing,California,1
+2299,Handbag,Accessories,Montana,1
+2300,Coat,Outerwear,Idaho,1
+2301,Coat,Outerwear,Pennsylvania,1
+2302,Pants,Clothing,Maine,1
+2303,Belt,Accessories,Montana,1
+2304,Sunglasses,Accessories,New Jersey,1
+2305,Hoodie,Clothing,Louisiana,1
+2306,Handbag,Accessories,Maine,1
+2307,Gloves,Accessories,Florida,1
+2308,Skirt,Clothing,Missouri,1
+2309,Sunglasses,Accessories,North Dakota,1
+2310,Dress,Clothing,Connecticut,1
+2311,Gloves,Accessories,Virginia,1
+2312,Sneakers,Footwear,Montana,1
+2313,T-shirt,Clothing,Vermont,1
+2314,Dress,Clothing,Georgia,1
+2315,Handbag,Accessories,Virginia,1
+2316,Socks,Clothing,Vermont,1
+2317,Sneakers,Footwear,Montana,1
+2318,Jacket,Outerwear,New Jersey,1
+2319,Hoodie,Clothing,Wyoming,1
+2320,Sandals,Footwear,Maine,1
+2321,Shoes,Footwear,New Mexico,1
+2322,Sandals,Footwear,Colorado,1
+2323,Coat,Outerwear,Connecticut,1
+2324,Gloves,Accessories,Maryland,1
+2325,Coat,Outerwear,Oregon,1
+2326,Boots,Footwear,New York,1
+2327,Skirt,Clothing,Oklahoma,1
+2328,Skirt,Clothing,Alabama,1
+2329,Pants,Clothing,North Dakota,1
+2330,Hat,Accessories,Nebraska,1
+2331,Backpack,Accessories,Arizona,1
+2332,Scarf,Accessories,Illinois,1
+2333,Scarf,Accessories,South Carolina,1
+2334,Shirt,Clothing,Kansas,1
+2335,Boots,Footwear,Kansas,1
+2336,Coat,Outerwear,Idaho,1
+2337,Belt,Accessories,California,1
+2338,Boots,Footwear,North Dakota,1
+2339,Sneakers,Footwear,Georgia,1
+2340,Shirt,Clothing,Illinois,1
+2341,Blouse,Clothing,Delaware,1
+2342,Jacket,Outerwear,Connecticut,1
+2343,Skirt,Clothing,Tennessee,1
+2344,Socks,Clothing,Maryland,1
+2345,Sandals,Footwear,Rhode Island,1
+2346,T-shirt,Clothing,New York,1
+2347,Jacket,Outerwear,New Mexico,1
+2348,Belt,Accessories,California,1
+2349,Shoes,Footwear,Maine,1
+2350,Blouse,Clothing,New York,1
+2351,Shoes,Footwear,Hawaii,1
+2352,Sweater,Clothing,New Hampshire,1
+2353,Boots,Footwear,Nebraska,1
+2354,Handbag,Accessories,Montana,1
+2355,Blouse,Clothing,Wisconsin,1
+2356,Skirt,Clothing,Tennessee,1
+2357,Backpack,Accessories,Montana,1
+2358,Shirt,Clothing,Michigan,1
+2359,Sweater,Clothing,Texas,1
+2360,Scarf,Accessories,Pennsylvania,1
+2361,Handbag,Accessories,New York,1
+2362,Scarf,Accessories,Alabama,1
+2363,Jeans,Clothing,Virginia,1
+2364,Socks,Clothing,Pennsylvania,1
+2365,Sunglasses,Accessories,Mississippi,1
+2366,Sneakers,Footwear,Wyoming,1
+2367,Shoes,Footwear,New Mexico,1
+2368,Socks,Clothing,North Dakota,1
+2369,Sunglasses,Accessories,New Jersey,1
+2370,Sweater,Clothing,Vermont,1
+2371,Shoes,Footwear,Alaska,1
+2372,Socks,Clothing,Indiana,1
+2373,Boots,Footwear,Alabama,1
+2374,Hoodie,Clothing,Michigan,1
+2375,Gloves,Accessories,Washington,1
+2376,Backpack,Accessories,Virginia,1
+2377,Gloves,Accessories,Tennessee,1
+2378,Blouse,Clothing,South Dakota,1
+2379,Scarf,Accessories,New Hampshire,1
+2380,Hat,Accessories,South Dakota,1
+2381,Scarf,Accessories,Pennsylvania,1
+2382,Sandals,Footwear,Wisconsin,1
+2383,Sweater,Clothing,California,1
+2384,Backpack,Accessories,Rhode Island,1
+2385,Blouse,Clothing,Alabama,1
+2386,Scarf,Accessories,Oklahoma,1
+2387,Socks,Clothing,Illinois,1
+2388,Hat,Accessories,Tennessee,1
+2389,Dress,Clothing,Alabama,1
+2390,Coat,Outerwear,Kansas,1
+2391,Shirt,Clothing,Arizona,1
+2392,Shirt,Clothing,Michigan,1
+2393,Jeans,Clothing,Missouri,1
+2394,Socks,Clothing,Louisiana,1
+2395,Sandals,Footwear,Connecticut,1
+2396,Blouse,Clothing,Connecticut,1
+2397,Shirt,Clothing,Oregon,1
+2398,Sunglasses,Accessories,West Virginia,1
+2399,Jacket,Outerwear,Florida,1
+2400,Dress,Clothing,New Hampshire,1
+2401,Sunglasses,Accessories,Oregon,1
+2402,Boots,Footwear,Oregon,1
+2403,Scarf,Accessories,Utah,1
+2404,Shorts,Clothing,Missouri,1
+2405,Shorts,Clothing,West Virginia,1
+2406,Jeans,Clothing,California,1
+2407,Scarf,Accessories,California,1
+2408,Shorts,Clothing,Illinois,1
+2409,Sneakers,Footwear,Hawaii,1
+2410,Jewelry,Accessories,Washington,1
+2411,Shoes,Footwear,Wisconsin,1
+2412,Hoodie,Clothing,Virginia,1
+2413,Jacket,Outerwear,Oregon,1
+2414,Shorts,Clothing,Pennsylvania,1
+2415,Socks,Clothing,Virginia,1
+2416,Coat,Outerwear,Hawaii,1
+2417,Sandals,Footwear,Nebraska,1
+2418,Backpack,Accessories,Alaska,1
+2419,Pants,Clothing,Michigan,1
+2420,Sweater,Clothing,North Carolina,1
+2421,Jacket,Outerwear,North Carolina,1
+2422,Sneakers,Footwear,Minnesota,1
+2423,Jewelry,Accessories,Georgia,1
+2424,Backpack,Accessories,West Virginia,1
+2425,Jewelry,Accessories,Delaware,1
+2426,Shoes,Footwear,North Dakota,1
+2427,Jacket,Outerwear,Florida,1
+2428,Jacket,Outerwear,Oregon,1
+2429,T-shirt,Clothing,Idaho,1
+2430,Sneakers,Footwear,Virginia,1
+2431,Jacket,Outerwear,North Dakota,1
+2432,Hoodie,Clothing,Alabama,1
+2433,Jacket,Outerwear,Hawaii,1
+2434,T-shirt,Clothing,Oregon,1
+2435,Gloves,Accessories,Utah,1
+2436,Sneakers,Footwear,Hawaii,1
+2437,T-shirt,Clothing,Connecticut,1
+2438,Sneakers,Footwear,Wyoming,1
+2439,Jeans,Clothing,Delaware,1
+2440,Handbag,Accessories,Arkansas,1
+2441,Socks,Clothing,Indiana,1
+2442,Jewelry,Accessories,California,1
+2443,Blouse,Clothing,Wyoming,1
+2444,Backpack,Accessories,South Dakota,1
+2445,Scarf,Accessories,West Virginia,1
+2446,Scarf,Accessories,Tennessee,1
+2447,Shirt,Clothing,Alaska,1
+2448,Pants,Clothing,South Dakota,1
+2449,Hat,Accessories,Tennessee,1
+2450,Coat,Outerwear,Alabama,1
+2451,T-shirt,Clothing,North Carolina,1
+2452,Socks,Clothing,Oklahoma,1
+2453,Shirt,Clothing,New York,1
+2454,Sweater,Clothing,Iowa,1
+2455,Gloves,Accessories,Alaska,1
+2456,Belt,Accessories,Alaska,1
+2457,Jeans,Clothing,Nebraska,1
+2458,Handbag,Accessories,Delaware,1
+2459,T-shirt,Clothing,Texas,1
+2460,Socks,Clothing,Missouri,1
+2461,Jeans,Clothing,Maine,1
+2462,Scarf,Accessories,Pennsylvania,1
+2463,Pants,Clothing,Missouri,1
+2464,Blouse,Clothing,Mississippi,1
+2465,Jacket,Outerwear,Hawaii,1
+2466,Sandals,Footwear,Texas,1
+2467,Shorts,Clothing,South Dakota,1
+2468,Shorts,Clothing,New Jersey,1
+2469,Skirt,Clothing,Connecticut,1
+2470,Sandals,Footwear,Maryland,1
+2471,Blouse,Clothing,Arizona,1
+2472,Sandals,Footwear,Oklahoma,1
+2473,Shirt,Clothing,Utah,1
+2474,Socks,Clothing,Arkansas,1
+2475,T-shirt,Clothing,North Carolina,1
+2476,Dress,Clothing,California,1
+2477,Hat,Accessories,Colorado,1
+2478,Gloves,Accessories,California,1
+2479,Socks,Clothing,Vermont,1
+2480,Dress,Clothing,Kansas,1
+2481,Socks,Clothing,Ohio,1
+2482,Belt,Accessories,New Jersey,1
+2483,Handbag,Accessories,Arizona,1
+2484,Skirt,Clothing,Arizona,1
+2485,Hoodie,Clothing,New Hampshire,1
+2486,Blouse,Clothing,Louisiana,1
+2487,Jeans,Clothing,Texas,1
+2488,Boots,Footwear,Montana,1
+2489,Handbag,Accessories,New Hampshire,1
+2490,Coat,Outerwear,South Dakota,1
+2491,Blouse,Clothing,Montana,1
+2492,Handbag,Accessories,North Carolina,1
+2493,Sunglasses,Accessories,South Dakota,1
+2494,Socks,Clothing,Maine,1
+2495,Shoes,Footwear,Oklahoma,1
+2496,Backpack,Accessories,Nebraska,1
+2497,Scarf,Accessories,Illinois,1
+2498,Backpack,Accessories,Colorado,1
+2499,Coat,Outerwear,Massachusetts,1
+2500,Hoodie,Clothing,Louisiana,1
+2501,Gloves,Accessories,Massachusetts,1
+2502,Shorts,Clothing,West Virginia,1
+2503,Skirt,Clothing,Idaho,1
+2504,Boots,Footwear,Ohio,1
+2505,Shorts,Clothing,Rhode Island,1
+2506,Handbag,Accessories,Illinois,1
+2507,Dress,Clothing,New York,1
+2508,Shoes,Footwear,Louisiana,1
+2509,Sneakers,Footwear,California,1
+2510,Socks,Clothing,Washington,1
+2511,Jacket,Outerwear,South Dakota,1
+2512,Backpack,Accessories,Idaho,1
+2513,Socks,Clothing,North Dakota,1
+2514,Handbag,Accessories,Washington,1
+2515,Hat,Accessories,Alaska,1
+2516,Blouse,Clothing,Kansas,1
+2517,Shorts,Clothing,Utah,1
+2518,Shirt,Clothing,Wyoming,1
+2519,Boots,Footwear,Maine,1
+2520,Jacket,Outerwear,Michigan,1
+2521,Jacket,Outerwear,Illinois,1
+2522,Handbag,Accessories,Minnesota,1
+2523,Belt,Accessories,Massachusetts,1
+2524,Handbag,Accessories,New Jersey,1
+2525,Coat,Outerwear,Kansas,1
+2526,Sweater,Clothing,Kentucky,1
+2527,Shorts,Clothing,Rhode Island,1
+2528,Pants,Clothing,Illinois,1
+2529,Jewelry,Accessories,Alabama,1
+2530,Gloves,Accessories,Tennessee,1
+2531,Skirt,Clothing,Massachusetts,1
+2532,Sandals,Footwear,Texas,1
+2533,Socks,Clothing,Nebraska,1
+2534,Jewelry,Accessories,Pennsylvania,1
+2535,Sunglasses,Accessories,Virginia,1
+2536,Coat,Outerwear,Vermont,1
+2537,Belt,Accessories,Oklahoma,1
+2538,Coat,Outerwear,Maine,1
+2539,Scarf,Accessories,New Jersey,1
+2540,Sandals,Footwear,Massachusetts,1
+2541,Belt,Accessories,New Jersey,1
+2542,Scarf,Accessories,Washington,1
+2543,Jewelry,Accessories,Arkansas,1
+2544,Scarf,Accessories,West Virginia,1
+2545,Pants,Clothing,Delaware,1
+2546,Shoes,Footwear,Texas,1
+2547,Boots,Footwear,Texas,1
+2548,Jacket,Outerwear,Mississippi,1
+2549,Backpack,Accessories,Texas,1
+2550,Jacket,Outerwear,Virginia,1
+2551,Boots,Footwear,New Hampshire,1
+2552,Shoes,Footwear,Minnesota,1
+2553,Belt,Accessories,Maryland,1
+2554,Jewelry,Accessories,Vermont,1
+2555,Jewelry,Accessories,Kansas,1
+2556,Pants,Clothing,Idaho,1
+2557,T-shirt,Clothing,Montana,1
+2558,Shorts,Clothing,Oklahoma,1
+2559,Hoodie,Clothing,California,1
+2560,Belt,Accessories,Mississippi,1
+2561,Boots,Footwear,California,1
+2562,Hoodie,Clothing,New York,1
+2563,Shorts,Clothing,Arizona,1
+2564,Backpack,Accessories,Massachusetts,1
+2565,Scarf,Accessories,Kentucky,1
+2566,Socks,Clothing,Vermont,1
+2567,Handbag,Accessories,Missouri,1
+2568,Sunglasses,Accessories,Michigan,1
+2569,T-shirt,Clothing,Texas,1
+2570,Dress,Clothing,New York,1
+2571,Sneakers,Footwear,New Mexico,1
+2572,Sunglasses,Accessories,Mississippi,1
+2573,Blouse,Clothing,Washington,1
+2574,T-shirt,Clothing,New Mexico,1
+2575,Hat,Accessories,Florida,1
+2576,Shorts,Clothing,Minnesota,1
+2577,Hoodie,Clothing,New Hampshire,1
+2578,Socks,Clothing,Minnesota,1
+2579,Sunglasses,Accessories,Vermont,1
+2580,Blouse,Clothing,Minnesota,1
+2581,Jeans,Clothing,Massachusetts,1
+2582,Dress,Clothing,Wyoming,1
+2583,Dress,Clothing,South Dakota,1
+2584,Jeans,Clothing,Oklahoma,1
+2585,Socks,Clothing,Florida,1
+2586,Sunglasses,Accessories,Wisconsin,1
+2587,Coat,Outerwear,Maine,1
+2588,Scarf,Accessories,Connecticut,1
+2589,Backpack,Accessories,Delaware,1
+2590,Pants,Clothing,North Dakota,1
+2591,Gloves,Accessories,California,1
+2592,Jacket,Outerwear,New Mexico,1
+2593,Shorts,Clothing,Iowa,1
+2594,Pants,Clothing,Colorado,1
+2595,Skirt,Clothing,Montana,1
+2596,Blouse,Clothing,Iowa,1
+2597,Shirt,Clothing,Louisiana,1
+2598,Jewelry,Accessories,Alabama,1
+2599,Backpack,Accessories,Nevada,1
+2600,Jewelry,Accessories,Vermont,1
+2601,Belt,Accessories,New York,1
+2602,Dress,Clothing,Mississippi,1
+2603,Coat,Outerwear,South Carolina,1
+2604,Dress,Clothing,Washington,1
+2605,Sweater,Clothing,Colorado,1
+2606,Hoodie,Clothing,Nevada,1
+2607,Shoes,Footwear,Nevada,1
+2608,Shoes,Footwear,Oklahoma,1
+2609,Jacket,Outerwear,Mississippi,1
+2610,Backpack,Accessories,Arkansas,1
+2611,Jeans,Clothing,West Virginia,1
+2612,Jacket,Outerwear,Michigan,1
+2613,Sunglasses,Accessories,Louisiana,1
+2614,Gloves,Accessories,South Dakota,1
+2615,Jacket,Outerwear,North Dakota,1
+2616,T-shirt,Clothing,Arizona,1
+2617,Sandals,Footwear,Georgia,1
+2618,Shorts,Clothing,Idaho,1
+2619,Handbag,Accessories,Louisiana,1
+2620,Pants,Clothing,Connecticut,1
+2621,Blouse,Clothing,Ohio,1
+2622,Shoes,Footwear,Maine,1
+2623,Backpack,Accessories,New Hampshire,1
+2624,Shoes,Footwear,Massachusetts,1
+2625,Dress,Clothing,South Dakota,1
+2626,Skirt,Clothing,Colorado,1
+2627,Jacket,Outerwear,Rhode Island,1
+2628,Shirt,Clothing,Missouri,1
+2629,Hoodie,Clothing,Wyoming,1
+2630,Scarf,Accessories,New Hampshire,1
+2631,Skirt,Clothing,Maine,1
+2632,Skirt,Clothing,Connecticut,1
+2633,Scarf,Accessories,Alaska,1
+2634,Sunglasses,Accessories,Alaska,1
+2635,Sandals,Footwear,North Carolina,1
+2636,Hoodie,Clothing,Colorado,1
+2637,Jacket,Outerwear,Utah,1
+2638,Pants,Clothing,Alabama,1
+2639,Shirt,Clothing,Hawaii,1
+2640,Blouse,Clothing,New Hampshire,1
+2641,Skirt,Clothing,Indiana,1
+2642,Sunglasses,Accessories,Vermont,1
+2643,Belt,Accessories,Iowa,1
+2644,Gloves,Accessories,Maryland,1
+2645,Pants,Clothing,New Mexico,1
+2646,Scarf,Accessories,Louisiana,1
+2647,T-shirt,Clothing,New Mexico,1
+2648,Shoes,Footwear,South Carolina,1
+2649,Pants,Clothing,Illinois,1
+2650,Gloves,Accessories,Minnesota,1
+2651,Socks,Clothing,Oregon,1
+2652,Sneakers,Footwear,Tennessee,1
+2653,Shorts,Clothing,Maryland,1
+2654,Blouse,Clothing,Wisconsin,1
+2655,Coat,Outerwear,Idaho,1
+2656,Sunglasses,Accessories,Wyoming,1
+2657,Shorts,Clothing,Indiana,1
+2658,Dress,Clothing,Texas,1
+2659,Handbag,Accessories,Ohio,1
+2660,Boots,Footwear,Kansas,1
+2661,Pants,Clothing,South Carolina,1
+2662,Boots,Footwear,Michigan,1
+2663,Skirt,Clothing,Nebraska,1
+2664,Sneakers,Footwear,Wisconsin,1
+2665,Jewelry,Accessories,Illinois,1
+2666,T-shirt,Clothing,Louisiana,1
+2667,Sandals,Footwear,Ohio,1
+2668,Boots,Footwear,Maryland,1
+2669,Coat,Outerwear,Texas,1
+2670,Belt,Accessories,Illinois,1
+2671,Sunglasses,Accessories,Pennsylvania,1
+2672,Sandals,Footwear,Alabama,1
+2673,Boots,Footwear,West Virginia,1
+2674,Hoodie,Clothing,Nevada,1
+2675,Hat,Accessories,Florida,1
+2676,Shorts,Clothing,Virginia,1
+2677,Backpack,Accessories,Kentucky,1
+2678,Shorts,Clothing,Connecticut,1
+2679,Belt,Accessories,Montana,1
+2680,Shorts,Clothing,Montana,1
+2681,Socks,Clothing,Nebraska,1
+2682,Shoes,Footwear,Massachusetts,1
+2683,Sneakers,Footwear,North Carolina,1
+2684,Backpack,Accessories,Montana,1
+2685,Dress,Clothing,Washington,1
+2686,Boots,Footwear,Virginia,1
+2687,Socks,Clothing,Georgia,1
+2688,Dress,Clothing,Delaware,1
+2689,Handbag,Accessories,West Virginia,1
+2690,Blouse,Clothing,Wyoming,1
+2691,Belt,Accessories,New Mexico,1
+2692,Pants,Clothing,Nebraska,1
+2693,Sneakers,Footwear,Washington,1
+2694,Boots,Footwear,Hawaii,1
+2695,Sunglasses,Accessories,Louisiana,1
+2696,Hat,Accessories,Tennessee,1
+2697,Coat,Outerwear,South Dakota,1
+2698,Jacket,Outerwear,Delaware,1
+2699,Hoodie,Clothing,Virginia,1
+2700,Boots,Footwear,Utah,1
+2701,T-shirt,Clothing,California,1
+2702,Sweater,Clothing,Idaho,1
+2703,Shoes,Footwear,Texas,1
+2704,Scarf,Accessories,Tennessee,1
+2705,Dress,Clothing,Tennessee,1
+2706,Jacket,Outerwear,Washington,1
+2707,Shoes,Footwear,Alabama,1
+2708,Backpack,Accessories,Nebraska,1
+2709,Dress,Clothing,Alabama,1
+2710,Shirt,Clothing,Illinois,1
+2711,Jacket,Outerwear,Wisconsin,1
+2712,Sunglasses,Accessories,Nebraska,1
+2713,Jacket,Outerwear,North Dakota,1
+2714,Coat,Outerwear,Mississippi,1
+2715,Sweater,Clothing,Iowa,1
+2716,Sneakers,Footwear,Mississippi,1
+2717,Shoes,Footwear,Colorado,1
+2718,Sunglasses,Accessories,Nebraska,1
+2719,Shorts,Clothing,Virginia,1
+2720,Hoodie,Clothing,Louisiana,1
+2721,Scarf,Accessories,Maryland,1
+2722,Sandals,Footwear,Minnesota,1
+2723,Hat,Accessories,Maine,1
+2724,Shoes,Footwear,Texas,1
+2725,Sneakers,Footwear,Missouri,1
+2726,Backpack,Accessories,Mississippi,1
+2727,Belt,Accessories,Michigan,1
+2728,Shirt,Clothing,Colorado,1
+2729,Skirt,Clothing,Florida,1
+2730,Gloves,Accessories,Montana,1
+2731,Gloves,Accessories,Wisconsin,1
+2732,Handbag,Accessories,Wisconsin,1
+2733,Socks,Clothing,Delaware,1
+2734,Backpack,Accessories,North Carolina,1
+2735,Jeans,Clothing,New York,1
+2736,Skirt,Clothing,California,1
+2737,Hoodie,Clothing,Montana,1
+2738,Jewelry,Accessories,North Carolina,1
+2739,Sneakers,Footwear,Ohio,1
+2740,Shirt,Clothing,Alaska,1
+2741,Sunglasses,Accessories,Pennsylvania,1
+2742,Dress,Clothing,Maine,1
+2743,Shoes,Footwear,Texas,1
+2744,Belt,Accessories,New Jersey,1
+2745,Shirt,Clothing,Wyoming,1
+2746,Boots,Footwear,Michigan,1
+2747,Hoodie,Clothing,Ohio,1
+2748,Jeans,Clothing,West Virginia,1
+2749,Jacket,Outerwear,Virginia,1
+2750,Jacket,Outerwear,Vermont,1
+2751,Sandals,Footwear,Alaska,1
+2752,Dress,Clothing,Minnesota,1
+2753,Sweater,Clothing,Colorado,1
+2754,Gloves,Accessories,Rhode Island,1
+2755,Sunglasses,Accessories,New Jersey,1
+2756,Belt,Accessories,Nevada,1
+2757,Hat,Accessories,Minnesota,1
+2758,Hat,Accessories,Delaware,1
+2759,Blouse,Clothing,Illinois,1
+2760,Shoes,Footwear,Washington,1
+2761,Skirt,Clothing,Alaska,1
+2762,Sneakers,Footwear,Michigan,1
+2763,T-shirt,Clothing,Georgia,1
+2764,Handbag,Accessories,West Virginia,1
+2765,Sweater,Clothing,Arizona,1
+2766,Gloves,Accessories,Colorado,1
+2767,Dress,Clothing,Tennessee,1
+2768,Dress,Clothing,Iowa,1
+2769,Blouse,Clothing,Kansas,1
+2770,Shirt,Clothing,Oklahoma,1
+2771,Boots,Footwear,Nebraska,1
+2772,Jacket,Outerwear,Maryland,1
+2773,Backpack,Accessories,Pennsylvania,1
+2774,Pants,Clothing,Arizona,1
+2775,Boots,Footwear,Oklahoma,1
+2776,Socks,Clothing,Montana,1
+2777,Scarf,Accessories,Wyoming,1
+2778,Blouse,Clothing,Idaho,1
+2779,Belt,Accessories,Pennsylvania,1
+2780,Sunglasses,Accessories,Montana,1
+2781,Boots,Footwear,Ohio,1
+2782,Sandals,Footwear,Mississippi,1
+2783,Gloves,Accessories,Idaho,1
+2784,Skirt,Clothing,Virginia,1
+2785,Skirt,Clothing,Idaho,1
+2786,Blouse,Clothing,Louisiana,1
+2787,Handbag,Accessories,Colorado,1
+2788,Boots,Footwear,West Virginia,1
+2789,Boots,Footwear,Rhode Island,1
+2790,Sweater,Clothing,North Carolina,1
+2791,Socks,Clothing,Maine,1
+2792,Gloves,Accessories,Iowa,1
+2793,Shorts,Clothing,Kentucky,1
+2794,Boots,Footwear,Massachusetts,1
+2795,Jacket,Outerwear,New York,1
+2796,Scarf,Accessories,Nebraska,1
+2797,Jacket,Outerwear,Oklahoma,1
+2798,Jewelry,Accessories,Oklahoma,1
+2799,Hoodie,Clothing,Rhode Island,1
+2800,T-shirt,Clothing,Maine,1
+2801,Shirt,Clothing,Arkansas,1
+2802,Shirt,Clothing,New Mexico,1
+2803,Coat,Outerwear,Hawaii,1
+2804,T-shirt,Clothing,Idaho,1
+2805,Hoodie,Clothing,South Carolina,1
+2806,Sunglasses,Accessories,Nevada,1
+2807,Blouse,Clothing,South Carolina,1
+2808,Hoodie,Clothing,Maryland,1
+2809,Skirt,Clothing,Tennessee,1
+2810,Shorts,Clothing,Arkansas,1
+2811,Jeans,Clothing,Arizona,1
+2812,Jacket,Outerwear,Ohio,1
+2813,Hoodie,Clothing,North Dakota,1
+2814,Shirt,Clothing,Vermont,1
+2815,T-shirt,Clothing,Minnesota,1
+2816,Blouse,Clothing,Idaho,1
+2817,Skirt,Clothing,Maryland,1
+2818,Backpack,Accessories,South Carolina,1
+2819,Shorts,Clothing,California,1
+2820,Shirt,Clothing,Georgia,1
+2821,Backpack,Accessories,Vermont,1
+2822,Shoes,Footwear,Georgia,1
+2823,Skirt,Clothing,New Jersey,1
+2824,Dress,Clothing,Utah,1
+2825,Hat,Accessories,Utah,1
+2826,Handbag,Accessories,North Carolina,1
+2827,Handbag,Accessories,Florida,1
+2828,Blouse,Clothing,Wisconsin,1
+2829,Scarf,Accessories,Tennessee,1
+2830,Jewelry,Accessories,Arizona,1
+2831,Skirt,Clothing,Oregon,1
+2832,Hoodie,Clothing,Virginia,1
+2833,Scarf,Accessories,Maryland,1
+2834,Jeans,Clothing,Arkansas,1
+2835,Jacket,Outerwear,Texas,1
+2836,T-shirt,Clothing,Vermont,1
+2837,Pants,Clothing,Wyoming,1
+2838,Shoes,Footwear,Alabama,1
+2839,Jacket,Outerwear,Maine,1
+2840,Scarf,Accessories,South Dakota,1
+2841,T-shirt,Clothing,West Virginia,1
+2842,Dress,Clothing,Ohio,1
+2843,Coat,Outerwear,Arizona,1
+2844,Sweater,Clothing,Ohio,1
+2845,Hat,Accessories,New Mexico,1
+2846,Backpack,Accessories,South Dakota,1
+2847,Socks,Clothing,Oklahoma,1
+2848,Jewelry,Accessories,Connecticut,1
+2849,Boots,Footwear,Wisconsin,1
+2850,Coat,Outerwear,New Hampshire,1
+2851,Sweater,Clothing,Nebraska,1
+2852,Blouse,Clothing,Nevada,1
+2853,Belt,Accessories,New York,1
+2854,Hat,Accessories,Pennsylvania,1
+2855,Sandals,Footwear,Delaware,1
+2856,Boots,Footwear,Mississippi,1
+2857,Jacket,Outerwear,Iowa,1
+2858,Dress,Clothing,Utah,1
+2859,Jeans,Clothing,Maryland,1
+2860,Shorts,Clothing,Utah,1
+2861,Shirt,Clothing,Rhode Island,1
+2862,Coat,Outerwear,Maryland,1
+2863,Coat,Outerwear,Hawaii,1
+2864,T-shirt,Clothing,Connecticut,1
+2865,Sweater,Clothing,Illinois,1
+2866,Skirt,Clothing,California,1
+2867,Blouse,Clothing,Connecticut,1
+2868,Sneakers,Footwear,Colorado,1
+2869,Backpack,Accessories,Colorado,1
+2870,Socks,Clothing,Georgia,1
+2871,Jewelry,Accessories,North Dakota,1
+2872,Shorts,Clothing,Idaho,1
+2873,Jewelry,Accessories,Connecticut,1
+2874,Sweater,Clothing,Montana,1
+2875,Shirt,Clothing,Colorado,1
+2876,Pants,Clothing,Kentucky,1
+2877,Hoodie,Clothing,New Mexico,1
+2878,Socks,Clothing,New Jersey,1
+2879,Dress,Clothing,California,1
+2880,Blouse,Clothing,North Dakota,1
+2881,Skirt,Clothing,Florida,1
+2882,Backpack,Accessories,Texas,1
+2883,Blouse,Clothing,Oklahoma,1
+2884,Socks,Clothing,Rhode Island,1
+2885,Boots,Footwear,Arkansas,1
+2886,Backpack,Accessories,Nevada,1
+2887,Hat,Accessories,Utah,1
+2888,Sandals,Footwear,Kentucky,1
+2889,Hoodie,Clothing,Wisconsin,1
+2890,Sunglasses,Accessories,Minnesota,1
+2891,Jeans,Clothing,North Dakota,1
+2892,T-shirt,Clothing,Ohio,1
+2893,Dress,Clothing,Nevada,1
+2894,Belt,Accessories,Kentucky,1
+2895,Jewelry,Accessories,Kentucky,1
+2896,Hoodie,Clothing,Montana,1
+2897,Blouse,Clothing,Delaware,1
+2898,Jacket,Outerwear,Montana,1
+2899,Sneakers,Footwear,New Jersey,1
+2900,Boots,Footwear,Nebraska,1
+2901,Blouse,Clothing,Maryland,1
+2902,Blouse,Clothing,Alabama,1
+2903,Boots,Footwear,North Carolina,1
+2904,Scarf,Accessories,Delaware,1
+2905,Sandals,Footwear,Iowa,1
+2906,Sunglasses,Accessories,New York,1
+2907,Coat,Outerwear,Virginia,1
+2908,Sunglasses,Accessories,Maryland,1
+2909,Blouse,Clothing,Texas,1
+2910,Backpack,Accessories,Louisiana,1
+2911,Belt,Accessories,Mississippi,1
+2912,Socks,Clothing,Ohio,1
+2913,Shoes,Footwear,Oregon,1
+2914,Coat,Outerwear,Wyoming,1
+2915,Sweater,Clothing,Pennsylvania,1
+2916,Shirt,Clothing,Oregon,1
+2917,Shorts,Clothing,Oklahoma,1
+2918,Shirt,Clothing,Colorado,1
+2919,Sunglasses,Accessories,New York,1
+2920,Shoes,Footwear,Minnesota,1
+2921,Sunglasses,Accessories,Texas,1
+2922,Handbag,Accessories,Wisconsin,1
+2923,Sunglasses,Accessories,Kentucky,1
+2924,Shirt,Clothing,Pennsylvania,1
+2925,Shirt,Clothing,Rhode Island,1
+2926,Sweater,Clothing,Illinois,1
+2927,Handbag,Accessories,Maryland,1
+2928,Shirt,Clothing,Missouri,1
+2929,Jewelry,Accessories,Alabama,1
+2930,Socks,Clothing,Maine,1
+2931,T-shirt,Clothing,Mississippi,1
+2932,Jewelry,Accessories,Alabama,1
+2933,Backpack,Accessories,Alaska,1
+2934,Hat,Accessories,Illinois,1
+2935,Gloves,Accessories,Idaho,1
+2936,Sneakers,Footwear,North Carolina,1
+2937,Skirt,Clothing,Washington,1
+2938,Handbag,Accessories,West Virginia,1
+2939,Sunglasses,Accessories,Maine,1
+2940,Sweater,Clothing,Kentucky,1
+2941,Handbag,Accessories,Massachusetts,1
+2942,Skirt,Clothing,Pennsylvania,1
+2943,Socks,Clothing,Hawaii,1
+2944,Shirt,Clothing,Virginia,1
+2945,Sneakers,Footwear,New York,1
+2946,Belt,Accessories,Delaware,1
+2947,Pants,Clothing,Hawaii,1
+2948,Jewelry,Accessories,Nebraska,1
+2949,Pants,Clothing,Vermont,1
+2950,Jewelry,Accessories,Iowa,1
+2951,Jeans,Clothing,Iowa,1
+2952,Scarf,Accessories,Arkansas,1
+2953,Belt,Accessories,Alabama,1
+2954,Dress,Clothing,Maryland,1
+2955,T-shirt,Clothing,South Dakota,1
+2956,Boots,Footwear,Vermont,1
+2957,Dress,Clothing,Montana,1
+2958,Jewelry,Accessories,South Dakota,1
+2959,Skirt,Clothing,Ohio,1
+2960,Handbag,Accessories,Texas,1
+2961,Coat,Outerwear,Indiana,1
+2962,Hoodie,Clothing,New Hampshire,1
+2963,Pants,Clothing,California,1
+2964,Boots,Footwear,Maine,1
+2965,Coat,Outerwear,Ohio,1
+2966,Scarf,Accessories,Delaware,1
+2967,Boots,Footwear,Oklahoma,1
+2968,Sneakers,Footwear,Indiana,1
+2969,Sweater,Clothing,South Carolina,1
+2970,Belt,Accessories,Vermont,1
+2971,Jewelry,Accessories,Kansas,1
+2972,Handbag,Accessories,Utah,1
+2973,Jacket,Outerwear,New York,1
+2974,Boots,Footwear,Indiana,1
+2975,Sneakers,Footwear,Tennessee,1
+2976,Scarf,Accessories,Georgia,1
+2977,Coat,Outerwear,Nebraska,1
+2978,Shorts,Clothing,Washington,1
+2979,Shorts,Clothing,Idaho,1
+2980,Jeans,Clothing,Louisiana,1
+2981,Gloves,Accessories,New Jersey,1
+2982,Pants,Clothing,Delaware,1
+2983,Dress,Clothing,Wisconsin,1
+2984,Pants,Clothing,West Virginia,1
+2985,Gloves,Accessories,Texas,1
+2986,Belt,Accessories,Hawaii,1
+2987,Belt,Accessories,Arizona,1
+2988,Skirt,Clothing,Louisiana,1
+2989,Socks,Clothing,Nevada,1
+2990,Belt,Accessories,Rhode Island,1
+2991,Shirt,Clothing,Illinois,1
+2992,Dress,Clothing,Utah,1
+2993,Socks,Clothing,North Dakota,1
+2994,Jacket,Outerwear,Kansas,1
+2995,Sweater,Clothing,Nevada,1
+2996,Jeans,Clothing,Virginia,1
+2997,Jewelry,Accessories,Utah,1
+2998,Sweater,Clothing,Idaho,1
+2999,Hoodie,Clothing,Alaska,1
+3000,Sunglasses,Accessories,New Hampshire,1
+3001,Sandals,Footwear,Ohio,1
+3002,Coat,Outerwear,Montana,1
+3003,Belt,Accessories,Louisiana,1
+3004,Blouse,Clothing,Oregon,1
+3005,Skirt,Clothing,Arizona,1
+3006,Shorts,Clothing,Alaska,1
+3007,Dress,Clothing,Utah,1
+3008,Sunglasses,Accessories,New York,1
+3009,Shoes,Footwear,New Mexico,1
+3010,Belt,Accessories,Louisiana,1
+3011,Belt,Accessories,Ohio,1
+3012,Belt,Accessories,Nevada,1
+3013,Belt,Accessories,Idaho,1
+3014,Skirt,Clothing,Arizona,1
+3015,T-shirt,Clothing,Utah,1
+3016,Scarf,Accessories,Wyoming,1
+3017,Blouse,Clothing,Indiana,1
+3018,Sunglasses,Accessories,Wisconsin,1
+3019,Boots,Footwear,Texas,1
+3020,Jacket,Outerwear,Utah,1
+3021,Jeans,Clothing,Arkansas,1
+3022,Sunglasses,Accessories,Pennsylvania,1
+3023,Sandals,Footwear,Georgia,1
+3024,Backpack,Accessories,Indiana,1
+3025,Blouse,Clothing,Idaho,1
+3026,Shoes,Footwear,Montana,1
+3027,Shirt,Clothing,Tennessee,1
+3028,Hoodie,Clothing,West Virginia,1
+3029,Dress,Clothing,California,1
+3030,Dress,Clothing,Georgia,1
+3031,Sneakers,Footwear,Maryland,1
+3032,Blouse,Clothing,Idaho,1
+3033,Backpack,Accessories,California,1
+3034,Sweater,Clothing,Alabama,1
+3035,Boots,Footwear,Utah,1
+3036,Handbag,Accessories,Kentucky,1
+3037,Hoodie,Clothing,Vermont,1
+3038,Belt,Accessories,Iowa,1
+3039,Jewelry,Accessories,Georgia,1
+3040,Blouse,Clothing,Alabama,1
+3041,Handbag,Accessories,Nebraska,1
+3042,Handbag,Accessories,Rhode Island,1
+3043,Coat,Outerwear,South Dakota,1
+3044,Belt,Accessories,Illinois,1
+3045,Boots,Footwear,North Carolina,1
+3046,Socks,Clothing,Florida,1
+3047,Shoes,Footwear,Pennsylvania,1
+3048,Sneakers,Footwear,Vermont,1
+3049,Jewelry,Accessories,Colorado,1
+3050,Handbag,Accessories,Utah,1
+3051,Coat,Outerwear,Kentucky,1
+3052,Sunglasses,Accessories,Wyoming,1
+3053,Shoes,Footwear,Maine,1
+3054,Shoes,Footwear,Maine,1
+3055,Boots,Footwear,New Hampshire,1
+3056,Sandals,Footwear,Kansas,1
+3057,Gloves,Accessories,New Jersey,1
+3058,Backpack,Accessories,North Carolina,1
+3059,Handbag,Accessories,West Virginia,1
+3060,Sweater,Clothing,Kentucky,1
+3061,Coat,Outerwear,California,1
+3062,T-shirt,Clothing,South Dakota,1
+3063,Backpack,Accessories,California,1
+3064,Sunglasses,Accessories,Connecticut,1
+3065,Belt,Accessories,Idaho,1
+3066,Jacket,Outerwear,North Dakota,1
+3067,Skirt,Clothing,Michigan,1
+3068,Belt,Accessories,Missouri,1
+3069,Boots,Footwear,California,1
+3070,Jeans,Clothing,Delaware,1
+3071,Shoes,Footwear,Alabama,1
+3072,Sweater,Clothing,New Hampshire,1
+3073,Jewelry,Accessories,New York,1
+3074,Shirt,Clothing,Oregon,1
+3075,Boots,Footwear,Massachusetts,1
+3076,Shorts,Clothing,Utah,1
+3077,Handbag,Accessories,New Hampshire,1
+3078,Sweater,Clothing,Illinois,1
+3079,Belt,Accessories,Alaska,1
+3080,Belt,Accessories,Wyoming,1
+3081,Hoodie,Clothing,Colorado,1
+3082,Sneakers,Footwear,Vermont,1
+3083,T-shirt,Clothing,Utah,1
+3084,Pants,Clothing,Illinois,1
+3085,Scarf,Accessories,Idaho,1
+3086,Sweater,Clothing,Nevada,1
+3087,Handbag,Accessories,Utah,1
+3088,Shirt,Clothing,North Carolina,1
+3089,Dress,Clothing,Arkansas,1
+3090,Sandals,Footwear,North Carolina,1
+3091,Shirt,Clothing,Texas,1
+3092,Dress,Clothing,Nevada,1
+3093,Sunglasses,Accessories,Utah,1
+3094,Socks,Clothing,Pennsylvania,1
+3095,Sandals,Footwear,Georgia,1
+3096,Hat,Accessories,Minnesota,1
+3097,Shirt,Clothing,Kansas,1
+3098,Shoes,Footwear,Delaware,1
+3099,Pants,Clothing,New Mexico,1
+3100,Shirt,Clothing,Michigan,1
+3101,Hat,Accessories,Vermont,1
+3102,Jewelry,Accessories,Idaho,1
+3103,Jacket,Outerwear,South Dakota,1
+3104,Shirt,Clothing,Illinois,1
+3105,Pants,Clothing,Georgia,1
+3106,Skirt,Clothing,Oregon,1
+3107,Sandals,Footwear,Alabama,1
+3108,Blouse,Clothing,Hawaii,1
+3109,Socks,Clothing,Oregon,1
+3110,Jacket,Outerwear,Illinois,1
+3111,Handbag,Accessories,Texas,1
+3112,Belt,Accessories,Kansas,1
+3113,Blouse,Clothing,Texas,1
+3114,Shirt,Clothing,Nebraska,1
+3115,Handbag,Accessories,Arkansas,1
+3116,Scarf,Accessories,South Dakota,1
+3117,Coat,Outerwear,Montana,1
+3118,Hoodie,Clothing,Florida,1
+3119,Shorts,Clothing,Virginia,1
+3120,Sandals,Footwear,Louisiana,1
+3121,Shirt,Clothing,Louisiana,1
+3122,Hoodie,Clothing,Louisiana,1
+3123,Socks,Clothing,Georgia,1
+3124,Handbag,Accessories,Iowa,1
+3125,Jewelry,Accessories,California,1
+3126,Coat,Outerwear,Oregon,1
+3127,Sunglasses,Accessories,Maine,1
+3128,Gloves,Accessories,Louisiana,1
+3129,Jacket,Outerwear,Arkansas,1
+3130,Sandals,Footwear,Maryland,1
+3131,Pants,Clothing,Vermont,1
+3132,Jacket,Outerwear,North Dakota,1
+3133,Sweater,Clothing,Michigan,1
+3134,T-shirt,Clothing,Arkansas,1
+3135,Boots,Footwear,Kentucky,1
+3136,Shoes,Footwear,Indiana,1
+3137,Skirt,Clothing,Minnesota,1
+3138,Coat,Outerwear,Louisiana,1
+3139,Blouse,Clothing,Kentucky,1
+3140,Sunglasses,Accessories,Georgia,1
+3141,Gloves,Accessories,Alaska,1
+3142,Sunglasses,Accessories,Mississippi,1
+3143,Sneakers,Footwear,Kansas,1
+3144,Hoodie,Clothing,Arizona,1
+3145,Boots,Footwear,Maine,1
+3146,Handbag,Accessories,Texas,1
+3147,Shirt,Clothing,Virginia,1
+3148,Sweater,Clothing,North Dakota,1
+3149,Shorts,Clothing,West Virginia,1
+3150,Belt,Accessories,North Carolina,1
+3151,Blouse,Clothing,Georgia,1
+3152,T-shirt,Clothing,New Mexico,1
+3153,Belt,Accessories,North Carolina,1
+3154,Socks,Clothing,Alabama,1
+3155,Belt,Accessories,Connecticut,1
+3156,Handbag,Accessories,Montana,1
+3157,Shirt,Clothing,Montana,1
+3158,Belt,Accessories,Maine,1
+3159,Jewelry,Accessories,Mississippi,1
+3160,Hat,Accessories,Louisiana,1
+3161,Backpack,Accessories,Nebraska,1
+3162,Dress,Clothing,Massachusetts,1
+3163,Shoes,Footwear,Wisconsin,1
+3164,Pants,Clothing,Nebraska,1
+3165,Dress,Clothing,Arizona,1
+3166,Jacket,Outerwear,Hawaii,1
+3167,Shirt,Clothing,Georgia,1
+3168,Dress,Clothing,Oregon,1
+3169,Jeans,Clothing,Montana,1
+3170,T-shirt,Clothing,Georgia,1
+3171,Sunglasses,Accessories,Rhode Island,1
+3172,Jewelry,Accessories,Tennessee,1
+3173,Socks,Clothing,Missouri,1
+3174,Skirt,Clothing,Washington,1
+3175,Pants,Clothing,Oklahoma,1
+3176,Socks,Clothing,Connecticut,1
+3177,Sandals,Footwear,Arkansas,1
+3178,Belt,Accessories,Missouri,1
+3179,Sandals,Footwear,Washington,1
+3180,Shorts,Clothing,Idaho,1
+3181,Handbag,Accessories,Montana,1
+3182,Jacket,Outerwear,Montana,1
+3183,Sunglasses,Accessories,Georgia,1
+3184,Sneakers,Footwear,Mississippi,1
+3185,Sweater,Clothing,Hawaii,1
+3186,Skirt,Clothing,Ohio,1
+3187,Jewelry,Accessories,Virginia,1
+3188,Blouse,Clothing,Texas,1
+3189,Blouse,Clothing,Vermont,1
+3190,Boots,Footwear,Kansas,1
+3191,Jeans,Clothing,California,1
+3192,Hoodie,Clothing,Mississippi,1
+3193,Sweater,Clothing,Iowa,1
+3194,Gloves,Accessories,Virginia,1
+3195,Sneakers,Footwear,Maryland,1
+3196,Sunglasses,Accessories,Missouri,1
+3197,Belt,Accessories,Wisconsin,1
+3198,Sweater,Clothing,Maine,1
+3199,Gloves,Accessories,Pennsylvania,1
+3200,Handbag,Accessories,Maine,1
+3201,Socks,Clothing,Missouri,1
+3202,Pants,Clothing,Vermont,1
+3203,Scarf,Accessories,Wisconsin,1
+3204,Coat,Outerwear,New Jersey,1
+3205,Jacket,Outerwear,New Mexico,1
+3206,Hoodie,Clothing,Colorado,1
+3207,Boots,Footwear,California,1
+3208,Socks,Clothing,Arizona,1
+3209,Jewelry,Accessories,Indiana,1
+3210,Shoes,Footwear,Arkansas,1
+3211,Socks,Clothing,Nevada,1
+3212,Pants,Clothing,Rhode Island,1
+3213,Sneakers,Footwear,Wyoming,1
+3214,Sunglasses,Accessories,Texas,1
+3215,Skirt,Clothing,Washington,1
+3216,Coat,Outerwear,Rhode Island,1
+3217,Hoodie,Clothing,Illinois,1
+3218,Sunglasses,Accessories,Oregon,1
+3219,Skirt,Clothing,Florida,1
+3220,Coat,Outerwear,Kansas,1
+3221,Handbag,Accessories,North Dakota,1
+3222,T-shirt,Clothing,New Hampshire,1
+3223,Sunglasses,Accessories,Texas,1
+3224,Shirt,Clothing,Montana,1
+3225,Hoodie,Clothing,Delaware,1
+3226,Blouse,Clothing,New Hampshire,1
+3227,Sneakers,Footwear,Minnesota,1
+3228,Scarf,Accessories,Alaska,1
+3229,Jewelry,Accessories,Connecticut,1
+3230,Pants,Clothing,Connecticut,1
+3231,Sneakers,Footwear,Kansas,1
+3232,Shoes,Footwear,Nevada,1
+3233,T-shirt,Clothing,Massachusetts,1
+3234,Belt,Accessories,Indiana,1
+3235,Jewelry,Accessories,Washington,1
+3236,Belt,Accessories,Kansas,1
+3237,Belt,Accessories,South Carolina,1
+3238,T-shirt,Clothing,Vermont,1
+3239,Sneakers,Footwear,Wyoming,1
+3240,Sunglasses,Accessories,Colorado,1
+3241,Sandals,Footwear,West Virginia,1
+3242,Handbag,Accessories,Connecticut,1
+3243,Socks,Clothing,Oregon,1
+3244,Hoodie,Clothing,Idaho,1
+3245,Sweater,Clothing,Arkansas,1
+3246,Pants,Clothing,Kansas,1
+3247,Sneakers,Footwear,Michigan,1
+3248,Gloves,Accessories,Arkansas,1
+3249,T-shirt,Clothing,Pennsylvania,1
+3250,Backpack,Accessories,Virginia,1
+3251,Coat,Outerwear,Minnesota,1
+3252,Coat,Outerwear,Nevada,1
+3253,Sandals,Footwear,Montana,1
+3254,Backpack,Accessories,Nebraska,1
+3255,Sweater,Clothing,Indiana,1
+3256,Shorts,Clothing,New Jersey,1
+3257,Sunglasses,Accessories,Wisconsin,1
+3258,Shirt,Clothing,Minnesota,1
+3259,Shoes,Footwear,New Jersey,1
+3260,Hat,Accessories,Oklahoma,1
+3261,Scarf,Accessories,Wisconsin,1
+3262,Belt,Accessories,Rhode Island,1
+3263,T-shirt,Clothing,Indiana,1
+3264,Shorts,Clothing,Vermont,1
+3265,Pants,Clothing,Maine,1
+3266,Sunglasses,Accessories,Alabama,1
+3267,Coat,Outerwear,Alabama,1
+3268,Hoodie,Clothing,Idaho,1
+3269,Dress,Clothing,Arkansas,1
+3270,Blouse,Clothing,Ohio,1
+3271,Socks,Clothing,Illinois,1
+3272,Socks,Clothing,Nevada,1
+3273,Shoes,Footwear,Texas,1
+3274,Belt,Accessories,Nevada,1
+3275,Sweater,Clothing,Oklahoma,1
+3276,Pants,Clothing,Alabama,1
+3277,Scarf,Accessories,South Dakota,1
+3278,Skirt,Clothing,Texas,1
+3279,Dress,Clothing,Montana,1
+3280,Hat,Accessories,Wyoming,1
+3281,Handbag,Accessories,New York,1
+3282,Pants,Clothing,Oregon,1
+3283,T-shirt,Clothing,California,1
+3284,Jacket,Outerwear,North Carolina,1
+3285,Scarf,Accessories,Kentucky,1
+3286,Hat,Accessories,Hawaii,1
+3287,Jacket,Outerwear,Illinois,1
+3288,Skirt,Clothing,West Virginia,1
+3289,Handbag,Accessories,South Carolina,1
+3290,Backpack,Accessories,Montana,1
+3291,Coat,Outerwear,North Dakota,1
+3292,Belt,Accessories,New Mexico,1
+3293,Handbag,Accessories,Missouri,1
+3294,Coat,Outerwear,West Virginia,1
+3295,Sweater,Clothing,South Carolina,1
+3296,Blouse,Clothing,West Virginia,1
+3297,Blouse,Clothing,Alaska,1
+3298,Belt,Accessories,West Virginia,1
+3299,Jacket,Outerwear,New Mexico,1
+3300,Shorts,Clothing,South Dakota,1
+3301,Hat,Accessories,Oklahoma,1
+3302,Pants,Clothing,Oklahoma,1
+3303,Blouse,Clothing,Alabama,1
+3304,Belt,Accessories,Mississippi,1
+3305,Handbag,Accessories,Mississippi,1
+3306,Hoodie,Clothing,Nebraska,1
+3307,Jacket,Outerwear,Colorado,1
+3308,Scarf,Accessories,Pennsylvania,1
+3309,Jeans,Clothing,Utah,1
+3310,Handbag,Accessories,Massachusetts,1
+3311,Jacket,Outerwear,Iowa,1
+3312,Hat,Accessories,Florida,1
+3313,Sneakers,Footwear,Louisiana,1
+3314,Hat,Accessories,Kansas,1
+3315,Socks,Clothing,Kansas,1
+3316,Scarf,Accessories,Kentucky,1
+3317,Socks,Clothing,New Mexico,1
+3318,Hat,Accessories,North Carolina,1
+3319,Jacket,Outerwear,North Dakota,1
+3320,Shorts,Clothing,North Dakota,1
+3321,Blouse,Clothing,Illinois,1
+3322,Coat,Outerwear,Maine,1
+3323,Sweater,Clothing,Indiana,1
+3324,Handbag,Accessories,North Dakota,1
+3325,T-shirt,Clothing,Missouri,1
+3326,Sandals,Footwear,Alaska,1
+3327,Gloves,Accessories,North Dakota,1
+3328,Shorts,Clothing,Connecticut,1
+3329,Sandals,Footwear,Wisconsin,1
+3330,Backpack,Accessories,New Jersey,1
+3331,Sneakers,Footwear,Missouri,1
+3332,Sunglasses,Accessories,California,1
+3333,T-shirt,Clothing,Washington,1
+3334,Jeans,Clothing,Minnesota,1
+3335,Shirt,Clothing,California,1
+3336,Hat,Accessories,Texas,1
+3337,Blouse,Clothing,Montana,1
+3338,Jacket,Outerwear,Arizona,1
+3339,Skirt,Clothing,Minnesota,1
+3340,Gloves,Accessories,Nebraska,1
+3341,T-shirt,Clothing,Virginia,1
+3342,Jacket,Outerwear,Connecticut,1
+3343,Jacket,Outerwear,New Jersey,1
+3344,Shorts,Clothing,Kentucky,1
+3345,Hat,Accessories,Washington,1
+3346,Handbag,Accessories,Florida,1
+3347,Jeans,Clothing,Oklahoma,1
+3348,Shoes,Footwear,Iowa,1
+3349,T-shirt,Clothing,New Hampshire,1
+3350,Jewelry,Accessories,Georgia,1
+3351,Handbag,Accessories,Mississippi,1
+3352,Shirt,Clothing,New Hampshire,1
+3353,Belt,Accessories,Washington,1
+3354,Dress,Clothing,Ohio,1
+3355,Skirt,Clothing,Maryland,1
+3356,Blouse,Clothing,Delaware,1
+3357,Jeans,Clothing,Tennessee,1
+3358,Hoodie,Clothing,Arkansas,1
+3359,T-shirt,Clothing,Tennessee,1
+3360,Sunglasses,Accessories,New Hampshire,1
+3361,Jacket,Outerwear,Minnesota,1
+3362,Shoes,Footwear,Florida,1
+3363,Handbag,Accessories,Tennessee,1
+3364,Sweater,Clothing,California,1
+3365,Scarf,Accessories,Oregon,1
+3366,Skirt,Clothing,Tennessee,1
+3367,Gloves,Accessories,North Carolina,1
+3368,T-shirt,Clothing,Tennessee,1
+3369,Sandals,Footwear,Nebraska,1
+3370,Sweater,Clothing,Maine,1
+3371,Belt,Accessories,Illinois,1
+3372,Hoodie,Clothing,Colorado,1
+3373,Socks,Clothing,Pennsylvania,1
+3374,Sandals,Footwear,Minnesota,1
+3375,Blouse,Clothing,Nevada,1
+3376,Boots,Footwear,Connecticut,1
+3377,Hat,Accessories,Ohio,1
+3378,Shirt,Clothing,Kentucky,1
+3379,Shorts,Clothing,Minnesota,1
+3380,Handbag,Accessories,Tennessee,1
+3381,Dress,Clothing,North Dakota,1
+3382,Hat,Accessories,Minnesota,1
+3383,Sweater,Clothing,Nebraska,1
+3384,Coat,Outerwear,Delaware,1
+3385,Hoodie,Clothing,Minnesota,1
+3386,Jewelry,Accessories,Rhode Island,1
+3387,T-shirt,Clothing,Michigan,1
+3388,Pants,Clothing,New Jersey,1
+3389,Sweater,Clothing,South Dakota,1
+3390,Pants,Clothing,North Carolina,1
+3391,Socks,Clothing,Oregon,1
+3392,Hoodie,Clothing,Montana,1
+3393,Scarf,Accessories,New Jersey,1
+3394,Dress,Clothing,Arizona,1
+3395,Sandals,Footwear,Vermont,1
+3396,Dress,Clothing,Colorado,1
+3397,Pants,Clothing,Tennessee,1
+3398,Blouse,Clothing,New Jersey,1
+3399,Jeans,Clothing,Montana,1
+3400,Pants,Clothing,Montana,1
+3401,Sunglasses,Accessories,Nevada,1
+3402,Backpack,Accessories,Nevada,1
+3403,Hoodie,Clothing,Louisiana,1
+3404,Boots,Footwear,Illinois,1
+3405,Gloves,Accessories,South Carolina,1
+3406,Blouse,Clothing,Washington,1
+3407,Sweater,Clothing,Nebraska,1
+3408,Dress,Clothing,Alabama,1
+3409,Socks,Clothing,Montana,1
+3410,Shirt,Clothing,Minnesota,1
+3411,Sandals,Footwear,Ohio,1
+3412,Shoes,Footwear,New York,1
+3413,Sandals,Footwear,Indiana,1
+3414,Gloves,Accessories,Delaware,1
+3415,Boots,Footwear,Connecticut,1
+3416,Blouse,Clothing,New York,1
+3417,Sandals,Footwear,Alabama,1
+3418,Coat,Outerwear,Massachusetts,1
+3419,Jacket,Outerwear,South Carolina,1
+3420,Jewelry,Accessories,West Virginia,1
+3421,Hat,Accessories,Kentucky,1
+3422,Shoes,Footwear,New Jersey,1
+3423,Coat,Outerwear,New York,1
+3424,Boots,Footwear,Massachusetts,1
+3425,Scarf,Accessories,Florida,1
+3426,Hat,Accessories,Michigan,1
+3427,Socks,Clothing,Oregon,1
+3428,T-shirt,Clothing,Michigan,1
+3429,Jewelry,Accessories,Washington,1
+3430,Skirt,Clothing,Alaska,1
+3431,Socks,Clothing,Montana,1
+3432,Belt,Accessories,New Mexico,1
+3433,Boots,Footwear,Connecticut,1
+3434,Socks,Clothing,Alaska,1
+3435,Pants,Clothing,Ohio,1
+3436,Socks,Clothing,Montana,1
+3437,Belt,Accessories,Nebraska,1
+3438,Jacket,Outerwear,Oklahoma,1
+3439,Shirt,Clothing,Kentucky,1
+3440,Gloves,Accessories,Idaho,1
+3441,Handbag,Accessories,Maryland,1
+3442,Sweater,Clothing,Tennessee,1
+3443,Skirt,Clothing,Michigan,1
+3444,Dress,Clothing,Tennessee,1
+3445,Pants,Clothing,Rhode Island,1
+3446,Hat,Accessories,Florida,1
+3447,Boots,Footwear,Louisiana,1
+3448,Sandals,Footwear,Arkansas,1
+3449,Coat,Outerwear,Kentucky,1
+3450,Blouse,Clothing,Kansas,1
+3451,Shorts,Clothing,Vermont,1
+3452,Blouse,Clothing,Nevada,1
+3453,Jacket,Outerwear,Oklahoma,1
+3454,Shirt,Clothing,Alabama,1
+3455,Handbag,Accessories,Louisiana,1
+3456,T-shirt,Clothing,Ohio,1
+3457,Hoodie,Clothing,Texas,1
+3458,Jewelry,Accessories,Maryland,1
+3459,Jewelry,Accessories,West Virginia,1
+3460,Hoodie,Clothing,Ohio,1
+3461,Scarf,Accessories,Indiana,1
+3462,Shoes,Footwear,Wyoming,1
+3463,Jeans,Clothing,Michigan,1
+3464,Jewelry,Accessories,Maine,1
+3465,Coat,Outerwear,Utah,1
+3466,Backpack,Accessories,Iowa,1
+3467,Socks,Clothing,Maryland,1
+3468,Scarf,Accessories,Texas,1
+3469,Sunglasses,Accessories,Ohio,1
+3470,Socks,Clothing,North Dakota,1
+3471,Coat,Outerwear,West Virginia,1
+3472,Sandals,Footwear,North Carolina,1
+3473,Blouse,Clothing,Georgia,1
+3474,Dress,Clothing,Kansas,1
+3475,Pants,Clothing,Maine,1
+3476,Sneakers,Footwear,South Carolina,1
+3477,Boots,Footwear,South Carolina,1
+3478,Handbag,Accessories,Kentucky,1
+3479,Handbag,Accessories,Arizona,1
+3480,Sweater,Clothing,New York,1
+3481,Sandals,Footwear,New Hampshire,1
+3482,Socks,Clothing,Ohio,1
+3483,Gloves,Accessories,Hawaii,1
+3484,Hoodie,Clothing,Texas,1
+3485,Dress,Clothing,Illinois,1
+3486,Shirt,Clothing,Massachusetts,1
+3487,Shorts,Clothing,North Carolina,1
+3488,Sandals,Footwear,West Virginia,1
+3489,Sweater,Clothing,Delaware,1
+3490,Dress,Clothing,Idaho,1
+3491,Boots,Footwear,Oregon,1
+3492,Pants,Clothing,Maine,1
+3493,Gloves,Accessories,South Dakota,1
+3494,Pants,Clothing,New Mexico,1
+3495,Scarf,Accessories,Washington,1
+3496,Shorts,Clothing,Georgia,1
+3497,Shoes,Footwear,Idaho,1
+3498,Handbag,Accessories,Colorado,1
+3499,Sandals,Footwear,Kentucky,1
+3500,Socks,Clothing,New Jersey,1
+3501,Shirt,Clothing,Oregon,1
+3502,Shoes,Footwear,Nebraska,1
+3503,Backpack,Accessories,Massachusetts,1
+3504,Shirt,Clothing,Nebraska,1
+3505,Handbag,Accessories,Hawaii,1
+3506,Jewelry,Accessories,Indiana,1
+3507,Shirt,Clothing,Illinois,1
+3508,Handbag,Accessories,Colorado,1
+3509,Pants,Clothing,Pennsylvania,1
+3510,T-shirt,Clothing,Ohio,1
+3511,Sneakers,Footwear,Pennsylvania,1
+3512,Jewelry,Accessories,Mississippi,1
+3513,Shirt,Clothing,Kentucky,1
+3514,Blouse,Clothing,Alaska,1
+3515,Sneakers,Footwear,Georgia,1
+3516,Dress,Clothing,South Dakota,1
+3517,Boots,Footwear,South Carolina,1
+3518,Skirt,Clothing,Tennessee,1
+3519,Shirt,Clothing,Colorado,1
+3520,Shorts,Clothing,Wisconsin,1
+3521,Hat,Accessories,Georgia,1
+3522,Shoes,Footwear,Maryland,1
+3523,Pants,Clothing,New Jersey,1
+3524,Backpack,Accessories,Nevada,1
+3525,Pants,Clothing,Michigan,1
+3526,Sunglasses,Accessories,Wyoming,1
+3527,Sweater,Clothing,Massachusetts,1
+3528,Blouse,Clothing,Washington,1
+3529,Scarf,Accessories,Maine,1
+3530,T-shirt,Clothing,Montana,1
+3531,Sunglasses,Accessories,Oklahoma,1
+3532,Shoes,Footwear,North Dakota,1
+3533,Pants,Clothing,Connecticut,1
+3534,Sneakers,Footwear,Texas,1
+3535,Shoes,Footwear,Delaware,1
+3536,Shorts,Clothing,Mississippi,1
+3537,Handbag,Accessories,Minnesota,1
+3538,Handbag,Accessories,Georgia,1
+3539,Shoes,Footwear,Iowa,1
+3540,Jewelry,Accessories,New York,1
+3541,Shorts,Clothing,Nevada,1
+3542,Blouse,Clothing,Virginia,1
+3543,Coat,Outerwear,Idaho,1
+3544,Hat,Accessories,Colorado,1
+3545,Socks,Clothing,Wisconsin,1
+3546,Sandals,Footwear,Connecticut,1
+3547,Scarf,Accessories,Kansas,1
+3548,Scarf,Accessories,Pennsylvania,1
+3549,Blouse,Clothing,Utah,1
+3550,T-shirt,Clothing,Oregon,1
+3551,Shoes,Footwear,West Virginia,1
+3552,Gloves,Accessories,Montana,1
+3553,Sunglasses,Accessories,Kentucky,1
+3554,Shoes,Footwear,Minnesota,1
+3555,Dress,Clothing,Louisiana,1
+3556,Blouse,Clothing,Delaware,1
+3557,Sweater,Clothing,Arizona,1
+3558,Jacket,Outerwear,Nevada,1
+3559,Backpack,Accessories,Alaska,1
+3560,Shorts,Clothing,Utah,1
+3561,Socks,Clothing,Kansas,1
+3562,Sneakers,Footwear,North Carolina,1
+3563,Sneakers,Footwear,Maryland,1
+3564,Blouse,Clothing,Maine,1
+3565,Gloves,Accessories,Illinois,1
+3566,Handbag,Accessories,Pennsylvania,1
+3567,Jeans,Clothing,Alaska,1
+3568,Scarf,Accessories,New Mexico,1
+3569,Sandals,Footwear,Arkansas,1
+3570,Sandals,Footwear,Alaska,1
+3571,Dress,Clothing,Louisiana,1
+3572,Skirt,Clothing,North Dakota,1
+3573,Shorts,Clothing,Rhode Island,1
+3574,Jeans,Clothing,Connecticut,1
+3575,Socks,Clothing,New York,1
+3576,Coat,Outerwear,Kentucky,1
+3577,Boots,Footwear,Maine,1
+3578,Belt,Accessories,Missouri,1
+3579,Shoes,Footwear,Georgia,1
+3580,Scarf,Accessories,Arizona,1
+3581,Blouse,Clothing,New Hampshire,1
+3582,Dress,Clothing,Georgia,1
+3583,Shorts,Clothing,California,1
+3584,Blouse,Clothing,Arizona,1
+3585,Sneakers,Footwear,Florida,1
+3586,Gloves,Accessories,New York,1
+3587,Hoodie,Clothing,Idaho,1
+3588,Sweater,Clothing,Virginia,1
+3589,Sunglasses,Accessories,Michigan,1
+3590,Belt,Accessories,New Hampshire,1
+3591,Dress,Clothing,South Dakota,1
+3592,Jacket,Outerwear,South Dakota,1
+3593,Boots,Footwear,New Jersey,1
+3594,Sandals,Footwear,Wyoming,1
+3595,Scarf,Accessories,Alabama,1
+3596,Blouse,Clothing,South Dakota,1
+3597,Hoodie,Clothing,South Carolina,1
+3598,Sunglasses,Accessories,New Mexico,1
+3599,Hoodie,Clothing,Connecticut,1
+3600,Scarf,Accessories,Kansas,1
+3601,Dress,Clothing,South Carolina,1
+3602,T-shirt,Clothing,North Carolina,1
+3603,Skirt,Clothing,Wyoming,1
+3604,Jeans,Clothing,Louisiana,1
+3605,Hoodie,Clothing,Louisiana,1
+3606,Jeans,Clothing,Alabama,1
+3607,Sandals,Footwear,Minnesota,1
+3608,Hat,Accessories,New Mexico,1
+3609,Gloves,Accessories,Tennessee,1
+3610,Socks,Clothing,New Mexico,1
+3611,Jacket,Outerwear,Texas,1
+3612,T-shirt,Clothing,Washington,1
+3613,Sandals,Footwear,Michigan,1
+3614,Hat,Accessories,Minnesota,1
+3615,Gloves,Accessories,Delaware,1
+3616,Dress,Clothing,California,1
+3617,Hoodie,Clothing,Wisconsin,1
+3618,Belt,Accessories,Kentucky,1
+3619,Gloves,Accessories,Nevada,1
+3620,Scarf,Accessories,North Carolina,1
+3621,Sandals,Footwear,Louisiana,1
+3622,Sneakers,Footwear,New Jersey,1
+3623,Dress,Clothing,Wisconsin,1
+3624,Jewelry,Accessories,Arkansas,1
+3625,Hat,Accessories,Texas,1
+3626,Scarf,Accessories,Illinois,1
+3627,Blouse,Clothing,Mississippi,1
+3628,Belt,Accessories,Delaware,1
+3629,Blouse,Clothing,Georgia,1
+3630,T-shirt,Clothing,Kansas,1
+3631,Hat,Accessories,Oklahoma,1
+3632,Hat,Accessories,New Jersey,1
+3633,Sneakers,Footwear,Utah,1
+3634,Gloves,Accessories,Montana,1
+3635,Socks,Clothing,Ohio,1
+3636,Sandals,Footwear,Colorado,1
+3637,Sandals,Footwear,California,1
+3638,Boots,Footwear,Utah,1
+3639,Backpack,Accessories,Kansas,1
+3640,Coat,Outerwear,Illinois,1
+3641,Sunglasses,Accessories,Minnesota,1
+3642,Jacket,Outerwear,New York,1
+3643,Dress,Clothing,Arizona,1
+3644,Scarf,Accessories,Tennessee,1
+3645,Blouse,Clothing,Arkansas,1
+3646,Backpack,Accessories,Colorado,1
+3647,Jewelry,Accessories,Nevada,1
+3648,Shorts,Clothing,Kansas,1
+3649,Skirt,Clothing,New York,1
+3650,Skirt,Clothing,Minnesota,1
+3651,Jeans,Clothing,Ohio,1
+3652,Handbag,Accessories,Arizona,1
+3653,Handbag,Accessories,Kentucky,1
+3654,Coat,Outerwear,Minnesota,1
+3655,Jewelry,Accessories,Arkansas,1
+3656,Sweater,Clothing,Wyoming,1
+3657,Jacket,Outerwear,North Dakota,1
+3658,Shoes,Footwear,Alabama,1
+3659,T-shirt,Clothing,Mississippi,1
+3660,Sandals,Footwear,Illinois,1
+3661,Shoes,Footwear,Arkansas,1
+3662,Sandals,Footwear,Kansas,1
+3663,Shorts,Clothing,Rhode Island,1
+3664,Backpack,Accessories,Florida,1
+3665,Jacket,Outerwear,Missouri,1
+3666,Socks,Clothing,North Carolina,1
+3667,Jewelry,Accessories,Alabama,1
+3668,Pants,Clothing,Washington,1
+3669,Blouse,Clothing,Michigan,1
+3670,Socks,Clothing,Washington,1
+3671,Shoes,Footwear,Vermont,1
+3672,Handbag,Accessories,Illinois,1
+3673,Sandals,Footwear,New York,1
+3674,Socks,Clothing,Rhode Island,1
+3675,Handbag,Accessories,Washington,1
+3676,Hat,Accessories,Virginia,1
+3677,Jewelry,Accessories,Wisconsin,1
+3678,Backpack,Accessories,Michigan,1
+3679,Shirt,Clothing,Texas,1
+3680,Coat,Outerwear,Idaho,1
+3681,Sunglasses,Accessories,Iowa,1
+3682,Gloves,Accessories,Connecticut,1
+3683,Shirt,Clothing,Wyoming,1
+3684,Socks,Clothing,Mississippi,1
+3685,Skirt,Clothing,Pennsylvania,1
+3686,Shorts,Clothing,Tennessee,1
+3687,Sandals,Footwear,Louisiana,1
+3688,Shirt,Clothing,Arkansas,1
+3689,Sunglasses,Accessories,West Virginia,1
+3690,Jewelry,Accessories,South Carolina,1
+3691,Blouse,Clothing,Kansas,1
+3692,Sandals,Footwear,Michigan,1
+3693,Coat,Outerwear,Alabama,1
+3694,Blouse,Clothing,South Dakota,1
+3695,Sweater,Clothing,Rhode Island,1
+3696,Skirt,Clothing,Florida,1
+3697,Blouse,Clothing,Connecticut,1
+3698,Hoodie,Clothing,Pennsylvania,1
+3699,Skirt,Clothing,California,1
+3700,Backpack,Accessories,Oklahoma,1
+3701,Handbag,Accessories,North Dakota,1
+3702,Sandals,Footwear,New Mexico,1
+3703,Shoes,Footwear,South Carolina,1
+3704,Sandals,Footwear,Michigan,1
+3705,Sunglasses,Accessories,Missouri,1
+3706,Skirt,Clothing,Colorado,1
+3707,Sandals,Footwear,Kansas,1
+3708,Gloves,Accessories,Illinois,1
+3709,Hoodie,Clothing,South Carolina,1
+3710,Socks,Clothing,Utah,1
+3711,Jewelry,Accessories,Hawaii,1
+3712,Hat,Accessories,Texas,1
+3713,Blouse,Clothing,Oregon,1
+3714,Shoes,Footwear,Arizona,1
+3715,Hat,Accessories,New York,1
+3716,Sunglasses,Accessories,Nebraska,1
+3717,Shirt,Clothing,Vermont,1
+3718,T-shirt,Clothing,Maryland,1
+3719,Pants,Clothing,Tennessee,1
+3720,Pants,Clothing,Pennsylvania,1
+3721,Hat,Accessories,South Carolina,1
+3722,Coat,Outerwear,Connecticut,1
+3723,Jacket,Outerwear,Kentucky,1
+3724,Sandals,Footwear,Rhode Island,1
+3725,Gloves,Accessories,Colorado,1
+3726,Dress,Clothing,Oklahoma,1
+3727,Belt,Accessories,Idaho,1
+3728,Socks,Clothing,Maine,1
+3729,Jacket,Outerwear,Vermont,1
+3730,Boots,Footwear,Rhode Island,1
+3731,Shirt,Clothing,Florida,1
+3732,Hat,Accessories,West Virginia,1
+3733,Shoes,Footwear,Indiana,1
+3734,Socks,Clothing,Illinois,1
+3735,Hoodie,Clothing,California,1
+3736,Sandals,Footwear,Massachusetts,1
+3737,Jeans,Clothing,Idaho,1
+3738,Jewelry,Accessories,Kentucky,1
+3739,Shorts,Clothing,Delaware,1
+3740,Sunglasses,Accessories,Idaho,1
+3741,Pants,Clothing,Virginia,1
+3742,Shirt,Clothing,Arizona,1
+3743,Shirt,Clothing,Maryland,1
+3744,Pants,Clothing,Idaho,1
+3745,Hoodie,Clothing,New Jersey,1
+3746,Socks,Clothing,Washington,1
+3747,Coat,Outerwear,Idaho,1
+3748,Sweater,Clothing,Rhode Island,1
+3749,Backpack,Accessories,Delaware,1
+3750,Blouse,Clothing,Alaska,1
+3751,Hoodie,Clothing,Arizona,1
+3752,Jewelry,Accessories,Alabama,1
+3753,Coat,Outerwear,Washington,1
+3754,Sunglasses,Accessories,Louisiana,1
+3755,Shoes,Footwear,Nebraska,1
+3756,Skirt,Clothing,Pennsylvania,1
+3757,Skirt,Clothing,South Carolina,1
+3758,Skirt,Clothing,California,1
+3759,Sandals,Footwear,Indiana,1
+3760,Sneakers,Footwear,Missouri,1
+3761,Socks,Clothing,Connecticut,1
+3762,Backpack,Accessories,Nevada,1
+3763,Shorts,Clothing,New York,1
+3764,Shirt,Clothing,Oklahoma,1
+3765,Socks,Clothing,South Dakota,1
+3766,Jewelry,Accessories,Missouri,1
+3767,Handbag,Accessories,Texas,1
+3768,Shorts,Clothing,New York,1
+3769,Sweater,Clothing,Vermont,1
+3770,Gloves,Accessories,Arizona,1
+3771,Pants,Clothing,Montana,1
+3772,T-shirt,Clothing,Oklahoma,1
+3773,Pants,Clothing,New Hampshire,1
+3774,Sweater,Clothing,Wisconsin,1
+3775,Gloves,Accessories,Alaska,1
+3776,Belt,Accessories,South Dakota,1
+3777,Sneakers,Footwear,Alaska,1
+3778,Shorts,Clothing,Utah,1
+3779,Sneakers,Footwear,South Dakota,1
+3780,Jeans,Clothing,California,1
+3781,Sneakers,Footwear,Mississippi,1
+3782,Boots,Footwear,Tennessee,1
+3783,Jacket,Outerwear,Alabama,1
+3784,Gloves,Accessories,Maine,1
+3785,Socks,Clothing,Virginia,1
+3786,Jeans,Clothing,New Hampshire,1
+3787,Boots,Footwear,Tennessee,1
+3788,Blouse,Clothing,New York,1
+3789,Hat,Accessories,Kansas,1
+3790,Shirt,Clothing,North Dakota,1
+3791,Handbag,Accessories,Alaska,1
+3792,Sunglasses,Accessories,Texas,1
+3793,Scarf,Accessories,Massachusetts,1
+3794,Sunglasses,Accessories,Delaware,1
+3795,Scarf,Accessories,South Dakota,1
+3796,Gloves,Accessories,Arkansas,1
+3797,Shorts,Clothing,Utah,1
+3798,Sunglasses,Accessories,California,1
+3799,Jewelry,Accessories,Rhode Island,1
+3800,Jacket,Outerwear,Oklahoma,1
+3801,Sweater,Clothing,Vermont,1
+3802,Blouse,Clothing,Kentucky,1
+3803,Scarf,Accessories,Illinois,1
+3804,Handbag,Accessories,Connecticut,1
+3805,Hat,Accessories,Florida,1
+3806,Scarf,Accessories,New Jersey,1
+3807,Boots,Footwear,Missouri,1
+3808,Blouse,Clothing,Michigan,1
+3809,Socks,Clothing,Washington,1
+3810,Shoes,Footwear,New York,1
+3811,Skirt,Clothing,Wisconsin,1
+3812,Belt,Accessories,Idaho,1
+3813,Skirt,Clothing,Michigan,1
+3814,Pants,Clothing,Georgia,1
+3815,Dress,Clothing,Michigan,1
+3816,Hat,Accessories,Maine,1
+3817,Coat,Outerwear,Maryland,1
+3818,Scarf,Accessories,Missouri,1
+3819,Sneakers,Footwear,Oregon,1
+3820,Pants,Clothing,Arkansas,1
+3821,Belt,Accessories,New Hampshire,1
+3822,Sneakers,Footwear,Oregon,1
+3823,Hat,Accessories,Kansas,1
+3824,Shirt,Clothing,California,1
+3825,Shorts,Clothing,Georgia,1
+3826,Shorts,Clothing,Hawaii,1
+3827,Jacket,Outerwear,Montana,1
+3828,Jewelry,Accessories,Montana,1
+3829,Blouse,Clothing,Mississippi,1
+3830,Pants,Clothing,Washington,1
+3831,Hat,Accessories,Pennsylvania,1
+3832,Backpack,Accessories,Nevada,1
+3833,Boots,Footwear,Kansas,1
+3834,Jacket,Outerwear,Arizona,1
+3835,Hoodie,Clothing,Tennessee,1
+3836,Sandals,Footwear,Pennsylvania,1
+3837,Skirt,Clothing,Alaska,1
+3838,Hoodie,Clothing,New Mexico,1
+3839,Dress,Clothing,Rhode Island,1
+3840,Sandals,Footwear,Connecticut,1
+3841,Jeans,Clothing,Idaho,1
+3842,Jeans,Clothing,Mississippi,1
+3843,Jacket,Outerwear,Colorado,1
+3844,Hat,Accessories,Georgia,1
+3845,Shorts,Clothing,Montana,1
+3846,Sweater,Clothing,California,1
+3847,Blouse,Clothing,Pennsylvania,1
+3848,Sweater,Clothing,Delaware,1
+3849,Jewelry,Accessories,New Hampshire,1
+3850,Hoodie,Clothing,Florida,1
+3851,Jewelry,Accessories,Mississippi,1
+3852,Scarf,Accessories,Montana,1
+3853,Hat,Accessories,Mississippi,1
+3854,Sunglasses,Accessories,Tennessee,1
+3855,T-shirt,Clothing,Florida,1
+3856,Shirt,Clothing,Illinois,1
+3857,Sandals,Footwear,Virginia,1
+3858,Hat,Accessories,Texas,1
+3859,T-shirt,Clothing,Missouri,1
+3860,Shorts,Clothing,Mississippi,1
+3861,Sunglasses,Accessories,Pennsylvania,1
+3862,Jacket,Outerwear,Wyoming,1
+3863,Shirt,Clothing,Idaho,1
+3864,Scarf,Accessories,New Hampshire,1
+3865,T-shirt,Clothing,Wyoming,1
+3866,Shorts,Clothing,Nebraska,1
+3867,Hat,Accessories,Alaska,1
+3868,Jacket,Outerwear,Maryland,1
+3869,Dress,Clothing,Maryland,1
+3870,Coat,Outerwear,Arizona,1
+3871,Sandals,Footwear,Ohio,1
+3872,T-shirt,Clothing,Minnesota,1
+3873,Jacket,Outerwear,New Hampshire,1
+3874,Sandals,Footwear,Louisiana,1
+3875,Sweater,Clothing,Nevada,1
+3876,Hat,Accessories,New Hampshire,1
+3877,Shoes,Footwear,Wisconsin,1
+3878,Hoodie,Clothing,Nevada,1
+3879,Hat,Accessories,South Carolina,1
+3880,Skirt,Clothing,Florida,1
+3881,Shirt,Clothing,Massachusetts,1
+3882,Scarf,Accessories,Georgia,1
+3883,Pants,Clothing,North Dakota,1
+3884,Hat,Accessories,North Dakota,1
+3885,Sandals,Footwear,Maryland,1
+3886,Socks,Clothing,New Mexico,1
+3887,Jewelry,Accessories,Iowa,1
+3888,Shirt,Clothing,Kansas,1
+3889,Sneakers,Footwear,Virginia,1
+3890,Dress,Clothing,Alaska,1
+3891,Shirt,Clothing,Nebraska,1
+3892,Dress,Clothing,Colorado,1
+3893,Jewelry,Accessories,Michigan,1
+3894,Hat,Accessories,Massachusetts,1
+3895,Skirt,Clothing,Connecticut,1
+3896,Hoodie,Clothing,Virginia,1
+3897,Backpack,Accessories,Iowa,1
+3898,Belt,Accessories,New Jersey,1
+3899,Shoes,Footwear,Minnesota,1
+3900,Handbag,Accessories,California,1
