@@ -17,7 +17,7 @@ def load_data():
     for file in path.iterdir():
         print(" -", file.name)
 
-    # pega automaticamente o primeiro CSV
+    # Take the first csv file
     csv_files = list(path.glob("*.csv"))
 
     if not csv_files:
