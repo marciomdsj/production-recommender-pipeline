@@ -1,1 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
 .venv/
+venv/
+
+# Environment variables
+.env
+
+# Models (Artifacts should be stored in S3/GCS, not Git)
+models/*.pkl
+models/*.joblib
+
+# Data (Avoid committing large datasets)
+data/
+!data/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store

@@ -1,3 +1,4 @@
+# File responsible for training ALS model with the dataset.
 import pandas as pd
 import numpy as np
 from scipy.sparse import coo_matrix
@@ -29,7 +30,7 @@ def train_als(matrix):
         iterations=20,
         random_state=42
     )
-    model.fit(matrix.T)
+    model.fit(matrix)
 
     return model
 

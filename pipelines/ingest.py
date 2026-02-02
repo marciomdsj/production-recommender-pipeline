@@ -1,3 +1,4 @@
+# File responsible for ingesting the dataset. Here the load_data function only ingests csv files.
 import kagglehub
 import pandas as pd
 from pathlib import Path
@@ -5,7 +6,7 @@ from pathlib import Path
 def download_dataset():
     path = Path(
         kagglehub.dataset_download(
-            "wardabilal/customer-shopping-behaviour-analysis"
+            "wardabilal/customer-shopping-behaviour-analysis" # Example of dataset from Kaggle. You can adjust the intire path.
         )
     )
     return path

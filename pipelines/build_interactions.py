@@ -1,4 +1,4 @@
-
+# File responsible for building the interactions, which means if the ID have some thing in common with the item.
 import pandas as pd
 from scipy.sparse import coo_matrix
 from pathlib import Path
@@ -44,5 +44,12 @@ if __name__ == "__main__":
     # Persistance
     df_idx.to_csv(FEATURES_DIR / "interactions_indexed.csv", index=False)
 
-    pd.Series(user_map).to_csv(FEATURES_DIR / "user_map.csv")
-    pd.Series(item_map).to_csv(FEATURES_DIR / "item_map.csv")
+    pd.DataFrame(
+        list(user_map.items()),
+        columns=["user_idx", "user_id"]
+    ).to_csv(FEATURES_DIR / "user_map.csv", index=False)
+    
+    pd.DataFrame(
+        list(item_map.items()),
+        columns=["item_idx", "item_id"]
+    ).to_csv(FEATURES_DIR / "item_map.csv", index=False)
